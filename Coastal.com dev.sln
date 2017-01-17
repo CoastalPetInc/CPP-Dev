@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Coastal.com dev", "Coastal.com dev.vbproj", "{DEC22BF3-9608-42A9-919F-6003FC5D0E7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F676979D-103E-42BF-943C-1F635CD0858D}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.vb = Class1.vb
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC22BF3-9608-42A9-919F-6003FC5D0E7C}.Debug|x86.ActiveCfg = Debug|x86
+		{DEC22BF3-9608-42A9-919F-6003FC5D0E7C}.Debug|x86.Build.0 = Debug|x86
+		{DEC22BF3-9608-42A9-919F-6003FC5D0E7C}.Release|x86.ActiveCfg = Release|x86
+		{DEC22BF3-9608-42A9-919F-6003FC5D0E7C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

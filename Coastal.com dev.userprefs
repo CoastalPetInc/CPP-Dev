@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="inc/style/base.css">
+    <Files>
+      <File FileName="App_Code/WSC.Datalayer.vb" Line="26" Column="51" />
+      <File FileName="UserControls/Cart/History.ascx" Line="1" Column="1" />
+      <File FileName="web.config" Line="1" Column="1" />
+      <File FileName="UserControls/ProductSearch.ascx.vb" Line="1" Column="1" />
+      <File FileName="robots.txt" Line="1" Column="1" />
+      <File FileName="inc/style/base.css" Line="32" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

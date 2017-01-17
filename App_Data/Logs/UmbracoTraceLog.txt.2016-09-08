@@ -1,0 +1,1431 @@
+﻿2016-09-08 00:01:08,825 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 00:01:08
+2016-09-08 00:02:35,234 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 00:02:35
+2016-09-08 00:04:01,644 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 00:04:01
+2016-09-08 00:05:28,053 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 00:05:28
+2016-09-08 00:06:54,463 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 00:06:54
+2016-09-08 00:08:20,872 [8] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 00:08:20
+2016-09-08 00:09:46,578 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 00:09:46
+2016-09-08 00:11:12,176 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 00:11:12
+2016-09-08 00:12:37,774 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 00:12:37
+2016-09-08 00:14:03,572 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 00:14:03
+2016-09-08 00:15:29,676 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 00:15:29
+2016-09-08 00:16:55,780 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 00:16:55
+2016-09-08 00:18:21,884 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 00:18:21
+2016-09-08 00:19:48,155 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 00:19:48
+2016-09-08 00:21:14,439 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 00:21:14
+2016-09-08 00:22:40,724 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 00:22:40
+2016-09-08 00:24:07,038 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 00:24:07
+2016-09-08 00:25:33,388 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 00:25:33
+2016-09-08 00:26:59,738 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 00:26:59
+2016-09-08 00:28:26,087 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 00:28:26
+2016-09-08 00:29:52,460 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 00:29:52
+2016-09-08 00:31:18,833 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 00:31:18
+2016-09-08 00:32:45,206 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 00:32:45
+2016-09-08 00:34:11,583 [8] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 00:34:11
+2016-09-08 00:35:37,965 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 00:35:37
+2016-09-08 00:37:04,347 [8] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 00:37:04
+2016-09-08 00:38:30,729 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 00:38:30
+2016-09-08 00:39:57,113 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 00:39:57
+2016-09-08 00:41:23,498 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 00:41:23
+2016-09-08 00:42:49,883 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 00:42:49
+2016-09-08 00:44:16,268 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 00:44:16
+2016-09-08 00:45:42,653 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 00:45:42
+2016-09-08 00:47:09,039 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 00:47:09
+2016-09-08 00:48:35,425 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 00:48:35
+2016-09-08 00:50:01,811 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 00:50:01
+2016-09-08 00:51:28,259 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 00:51:28
+2016-09-08 00:52:54,582 [8] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 00:52:54
+2016-09-08 00:54:20,984 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 00:54:20
+2016-09-08 00:55:47,370 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 00:55:47
+2016-09-08 00:57:13,756 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 00:57:13
+2016-09-08 00:58:40,142 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 00:58:40
+2016-09-08 01:00:06,529 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 01:00:06
+2016-09-08 01:01:32,915 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 01:01:32
+2016-09-08 01:02:59,301 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 01:02:59
+2016-09-08 01:04:25,687 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:04:25
+2016-09-08 01:05:52,074 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:05:52
+2016-09-08 01:07:18,460 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 01:07:18
+2016-09-08 01:08:44,846 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 01:08:44
+2016-09-08 01:10:11,232 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 01:10:11
+2016-09-08 01:11:37,619 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:11:37
+2016-09-08 01:13:04,005 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 01:13:04
+2016-09-08 01:14:30,391 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 01:14:30
+2016-09-08 01:15:56,777 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 01:15:56
+2016-09-08 01:17:23,276 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 01:17:23
+2016-09-08 01:18:49,880 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:18:49
+2016-09-08 01:20:16,485 [8] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 01:20:16
+2016-09-08 01:21:43,083 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:21:43
+2016-09-08 01:23:09,552 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:23:09
+2016-09-08 01:24:36,020 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:24:36
+2016-09-08 01:26:02,488 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 01:26:02
+2016-09-08 01:27:28,928 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 01:27:28
+2016-09-08 01:28:55,348 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:28:55
+2016-09-08 01:30:21,767 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:30:21
+2016-09-08 01:31:48,185 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 01:31:48
+2016-09-08 01:33:14,587 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:33:14
+2016-09-08 01:34:40,989 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 01:34:40
+2016-09-08 01:36:07,390 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:36:07
+2016-09-08 01:37:33,788 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 01:37:33
+2016-09-08 01:39:00,183 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 01:39:00
+2016-09-08 01:40:26,578 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 01:40:26
+2016-09-08 01:41:52,973 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 01:41:52
+2016-09-08 01:43:19,366 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 01:43:19
+2016-09-08 01:44:45,759 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 01:44:45
+2016-09-08 01:46:12,152 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 01:46:12
+2016-09-08 01:47:38,544 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 01:47:38
+2016-09-08 01:49:04,936 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 01:49:04
+2016-09-08 01:50:31,344 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 01:50:31
+2016-09-08 01:51:57,737 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:51:57
+2016-09-08 01:53:24,128 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 01:53:24
+2016-09-08 01:54:50,520 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 01:54:50
+2016-09-08 01:56:16,912 [8] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 01:56:16
+2016-09-08 01:57:43,304 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 01:57:43
+2016-09-08 01:59:09,696 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 01:59:09
+2016-09-08 02:00:36,087 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 02:00:36
+2016-09-08 02:02:02,479 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 02:02:02
+2016-09-08 02:03:28,871 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 02:03:28
+2016-09-08 02:04:55,263 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 02:04:55
+2016-09-08 02:06:21,654 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 02:06:21
+2016-09-08 02:07:48,046 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 02:07:48
+2016-09-08 02:09:14,438 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 02:09:14
+2016-09-08 02:10:40,830 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 02:10:40
+2016-09-08 02:12:07,222 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 02:12:07
+2016-09-08 02:13:33,613 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 02:13:33
+2016-09-08 02:15:00,005 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 02:15:00
+2016-09-08 02:16:26,397 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 02:16:26
+2016-09-08 02:17:52,789 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 02:17:52
+2016-09-08 02:19:19,181 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 02:19:19
+2016-09-08 02:20:45,572 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 02:20:45
+2016-09-08 02:22:11,964 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 02:22:11
+2016-09-08 02:23:38,356 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 02:23:38
+2016-09-08 02:25:04,748 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 02:25:04
+2016-09-08 02:26:31,309 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 02:26:31
+2016-09-08 02:27:57,869 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 02:27:57
+2016-09-08 02:29:24,429 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 02:29:24
+2016-09-08 02:30:50,933 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 02:30:50
+2016-09-08 02:32:17,388 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 02:32:17
+2016-09-08 02:33:43,843 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 02:33:43
+2016-09-08 02:35:10,296 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 02:35:10
+2016-09-08 02:36:36,713 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 02:36:36
+2016-09-08 02:38:03,130 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 02:38:03
+2016-09-08 02:39:29,547 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 02:39:29
+2016-09-08 02:40:55,956 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 02:40:55
+2016-09-08 02:42:22,360 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 02:42:22
+2016-09-08 02:43:48,763 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 02:43:48
+2016-09-08 02:45:15,166 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 02:45:15
+2016-09-08 02:46:41,581 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 02:46:41
+2016-09-08 02:48:07,980 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 02:48:07
+2016-09-08 02:49:34,379 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 02:49:34
+2016-09-08 02:51:00,777 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 02:51:00
+2016-09-08 02:52:27,174 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 02:52:27
+2016-09-08 02:53:53,571 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 02:53:53
+2016-09-08 02:55:19,968 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 02:55:19
+2016-09-08 02:56:46,365 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 02:56:46
+2016-09-08 02:58:12,762 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 02:58:12
+2016-09-08 02:59:39,159 [8] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 02:59:39
+2016-09-08 03:00:07,313 [8] INFO  WSC.ProductIndexTimer.Events - [Thread 34] Cache Removed: 2
+2016-09-08 03:00:07,313 [8] INFO  WSC.ProductIndexTimer.Events - [Thread 34] Cache Last Updated: 23
+2016-09-08 03:00:07,313 [8] INFO  WSC.ProductIndexTimer.Events - [Thread 34] Cache Expired
+2016-09-08 03:00:07,360 [8] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of Umbraco.Web.BaseRest.RestExtensionAttribute
+2016-09-08 03:00:07,360 [8] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of Umbraco.Web.BaseRest.RestExtensionAttribute, found 5 (took 2ms)
+2016-09-08 03:00:08,358 [8] INFO  WSC.Datalayer - [Thread 19] Create New CPP.Database connection
+2016-09-08 03:00:17,374 [8] INFO  WSC.Examine.ProductDataService - [Thread 19] WSC.Examine GetAllData('ProductData:products - From DB') 9446ms
+2016-09-08 03:00:17,654 [8] INFO  WSC.Examine.ProductDataService - [Thread 19] WSC.Examine GetAllData('ProductData:products - Add To Index') 282ms
+2016-09-08 03:00:18,185 [8] INFO  WSC.Examine.ProductDataService - [Thread 19] WSC.Examine GetAllData('ProductData:kits') 541ms
+2016-09-08 03:00:19,245 [8] INFO  WSC.Examine.ProductDataService - [Thread 19] WSC.Examine GetAllData('ProductData:brands') 1054ms
+2016-09-08 03:00:19,245 [8] INFO  WSC.Examine.ProductDataService - [Thread 19] WSC.Examine GetAllData('ProductData:Update NodeID') 0ms
+2016-09-08 03:00:19,510 [8] INFO  WSC.ProductIndexTimer.ProductIndex - [Thread 19] Rebuild Examine ProductIndexer
+2016-09-08 03:00:19,510 [8] INFO  WSC.ProductIndexTimer.Base - [Thread 19] Manual Rebuild (11986ms)
+2016-09-08 03:00:19,698 [8] INFO  WSC.ProductIndexTimer.ProductIndex - [Thread 34] Index Rebuilt 9/8/2016 3:00:07 AM (11986ms)
+2016-09-08 03:01:05,555 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 03:01:05
+2016-09-08 03:02:31,951 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 03:02:31
+2016-09-08 03:03:58,348 [8] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 03:03:58
+2016-09-08 03:05:24,744 [8] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 03:05:24
+2016-09-08 03:06:51,140 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:06:51
+2016-09-08 03:08:17,536 [8] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 03:08:17
+2016-09-08 03:09:43,932 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:09:43
+2016-09-08 03:11:10,329 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:11:10
+2016-09-08 03:12:36,725 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 03:12:36
+2016-09-08 03:14:03,121 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 03:14:03
+2016-09-08 03:15:29,517 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:15:29
+2016-09-08 03:16:55,914 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 03:16:55
+2016-09-08 03:18:22,310 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 03:18:22
+2016-09-08 03:19:48,706 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 03:19:48
+2016-09-08 03:21:15,102 [8] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 03:21:15
+2016-09-08 03:22:41,498 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 03:22:41
+2016-09-08 03:24:07,895 [8] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 03:24:07
+2016-09-08 03:25:34,291 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 03:25:34
+2016-09-08 03:27:00,687 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 03:27:00
+2016-09-08 03:28:27,083 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 03:28:27
+2016-09-08 03:29:53,479 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 03:29:53
+2016-09-08 03:31:19,876 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 03:31:19
+2016-09-08 03:32:46,272 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:32:46
+2016-09-08 03:34:12,761 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 03:34:12
+2016-09-08 03:35:39,288 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 03:35:39
+2016-09-08 03:37:05,815 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 03:37:05
+2016-09-08 03:38:32,322 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 03:38:32
+2016-09-08 03:39:58,767 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 03:39:58
+2016-09-08 03:41:25,212 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 03:41:25
+2016-09-08 03:42:51,673 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 03:42:51
+2016-09-08 03:44:18,096 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 03:44:18
+2016-09-08 03:45:44,512 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 03:45:44
+2016-09-08 03:47:10,928 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 03:47:10
+2016-09-08 03:48:37,341 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:48:37
+2016-09-08 03:50:03,747 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 03:50:03
+2016-09-08 03:51:30,152 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 03:51:30
+2016-09-08 03:52:56,558 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:52:56
+2016-09-08 03:54:22,960 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 03:54:22
+2016-09-08 03:55:49,362 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 03:55:49
+2016-09-08 03:57:15,764 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 03:57:15
+2016-09-08 03:58:42,165 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 03:58:42
+2016-09-08 04:00:08,565 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 04:00:08
+2016-09-08 04:01:34,965 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 04:01:34
+2016-09-08 04:03:01,365 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 04:03:01
+2016-09-08 04:04:27,765 [8] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 04:04:27
+2016-09-08 04:05:54,164 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 04:05:54
+2016-09-08 04:07:20,564 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 04:07:20
+2016-09-08 04:08:46,963 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 04:08:46
+2016-09-08 04:10:13,363 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 04:10:13
+2016-09-08 04:11:39,763 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 04:11:39
+2016-09-08 04:13:06,162 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:13:06
+2016-09-08 04:14:32,562 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:14:32
+2016-09-08 04:15:58,961 [8] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 04:15:58
+2016-09-08 04:17:25,361 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 04:17:25
+2016-09-08 04:18:51,760 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 04:18:51
+2016-09-08 04:20:18,160 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 04:20:18
+2016-09-08 04:21:44,559 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 04:21:44
+2016-09-08 04:23:10,959 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 04:23:10
+2016-09-08 04:24:37,358 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 04:24:37
+2016-09-08 04:26:03,758 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 04:26:03
+2016-09-08 04:27:30,157 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 04:27:30
+2016-09-08 04:28:56,557 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 04:28:56
+2016-09-08 04:30:22,956 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 04:30:22
+2016-09-08 04:31:49,356 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 04:31:49
+2016-09-08 04:33:15,756 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 04:33:15
+2016-09-08 04:34:42,155 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 04:34:42
+2016-09-08 04:36:08,555 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:36:08
+2016-09-08 04:37:34,954 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 04:37:34
+2016-09-08 04:39:01,369 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:39:01
+2016-09-08 04:40:27,769 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:40:27
+2016-09-08 04:41:54,168 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:41:54
+2016-09-08 04:43:20,568 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 04:43:20
+2016-09-08 04:44:46,967 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:44:46
+2016-09-08 04:46:13,367 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 04:46:13
+2016-09-08 04:47:39,767 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 04:47:39
+2016-09-08 04:49:06,166 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 04:49:06
+2016-09-08 04:50:32,566 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 04:50:32
+2016-09-08 04:51:58,965 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 04:51:58
+2016-09-08 04:53:25,365 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 04:53:25
+2016-09-08 04:54:51,764 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 04:54:51
+2016-09-08 04:56:18,164 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 04:56:18
+2016-09-08 04:57:44,579 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 04:57:44
+2016-09-08 04:59:10,978 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 04:59:10
+2016-09-08 05:00:37,378 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 05:00:37
+2016-09-08 05:02:03,778 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 05:02:03
+2016-09-08 05:03:30,177 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 05:03:30
+2016-09-08 05:04:56,577 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 05:04:56
+2016-09-08 05:06:22,976 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 05:06:22
+2016-09-08 05:07:49,376 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 05:07:49
+2016-09-08 05:09:15,775 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 05:09:15
+2016-09-08 05:10:42,175 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 05:10:42
+2016-09-08 05:12:08,574 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 05:12:08
+2016-09-08 05:13:34,974 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 05:13:34
+2016-09-08 05:15:01,373 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 05:15:01
+2016-09-08 05:16:27,773 [8] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 05:16:27
+2016-09-08 05:17:54,172 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 05:17:54
+2016-09-08 05:19:20,572 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 05:19:20
+2016-09-08 05:20:46,972 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 05:20:46
+2016-09-08 05:22:13,371 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 05:22:13
+2016-09-08 05:23:39,771 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 05:23:39
+2016-09-08 05:25:06,170 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 05:25:06
+2016-09-08 05:26:32,570 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 05:26:32
+2016-09-08 05:27:58,969 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 05:27:58
+2016-09-08 05:29:25,369 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 05:29:25
+2016-09-08 05:30:51,768 [8] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 05:30:51
+2016-09-08 05:32:18,168 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 05:32:18
+2016-09-08 05:33:44,583 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 05:33:44
+2016-09-08 05:35:10,982 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 05:35:10
+2016-09-08 05:36:37,382 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 05:36:37
+2016-09-08 05:38:03,782 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 05:38:03
+2016-09-08 05:39:30,181 [8] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 05:39:30
+2016-09-08 05:40:56,581 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 05:40:56
+2016-09-08 05:42:22,980 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 05:42:22
+2016-09-08 05:43:49,380 [8] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 05:43:49
+2016-09-08 05:45:15,779 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 05:45:15
+2016-09-08 05:46:42,179 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 05:46:42
+2016-09-08 05:48:08,578 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 05:48:08
+2016-09-08 05:49:34,978 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 05:49:34
+2016-09-08 05:51:01,554 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 05:51:01
+2016-09-08 05:52:28,150 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 05:52:28
+2016-09-08 05:53:54,745 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 05:53:54
+2016-09-08 05:55:21,288 [8] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 05:55:21
+2016-09-08 05:56:47,775 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 05:56:47
+2016-09-08 05:58:14,231 [8] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 05:58:14
+2016-09-08 05:59:40,718 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 05:59:40
+2016-09-08 06:01:07,131 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 06:01:07
+2016-09-08 06:02:33,558 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 06:02:33
+2016-09-08 06:03:59,984 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 06:03:59
+2016-09-08 06:05:26,403 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 06:05:26
+2016-09-08 06:06:52,814 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 06:06:52
+2016-09-08 06:08:19,224 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 06:08:19
+2016-09-08 06:09:45,635 [8] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 06:09:45
+2016-09-08 06:11:12,040 [8] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 06:11:12
+2016-09-08 06:12:38,445 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 06:12:38
+2016-09-08 06:14:04,850 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 06:14:04
+2016-09-08 06:15:31,254 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 06:15:31
+2016-09-08 06:16:57,657 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 06:16:57
+2016-09-08 06:18:24,075 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 06:18:24
+2016-09-08 06:19:50,463 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 06:19:50
+2016-09-08 06:21:16,865 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 06:21:16
+2016-09-08 06:22:43,267 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 06:22:43
+2016-09-08 06:24:09,670 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 06:24:09
+2016-09-08 06:25:36,071 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 06:25:36
+2016-09-08 06:27:02,473 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 06:27:02
+2016-09-08 06:28:28,875 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 06:28:28
+2016-09-08 06:29:55,292 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 06:29:55
+2016-09-08 06:31:21,694 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 06:31:21
+2016-09-08 06:32:48,096 [8] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 06:32:48
+2016-09-08 06:34:14,498 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 06:34:14
+2016-09-08 06:35:40,899 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 06:35:40
+2016-09-08 06:37:07,301 [8] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 06:37:07
+2016-09-08 06:38:33,703 [8] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 06:38:33
+2016-09-08 06:40:00,105 [8] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 06:40:00
+2016-09-08 06:41:26,506 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 06:41:26
+2016-09-08 06:42:52,908 [8] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 06:42:52
+2016-09-08 06:44:19,310 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 06:44:19
+2016-09-08 06:45:45,712 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 06:45:45
+2016-09-08 06:47:12,113 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 06:47:12
+2016-09-08 06:48:38,515 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 06:48:38
+2016-09-08 06:50:04,917 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 06:50:04
+2016-09-08 06:51:31,319 [8] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 06:51:31
+2016-09-08 06:52:57,720 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 06:52:57
+2016-09-08 06:54:24,122 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 06:54:24
+2016-09-08 06:55:50,524 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 06:55:50
+2016-09-08 06:57:16,926 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 06:57:16
+2016-09-08 06:58:43,327 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 06:58:43
+2016-09-08 07:00:09,729 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 07:00:09
+2016-09-08 07:01:36,131 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 07:01:36
+2016-09-08 07:03:02,548 [8] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 07:03:02
+2016-09-08 07:04:28,934 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 07:04:28
+2016-09-08 07:05:55,336 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 07:05:55
+2016-09-08 07:07:21,738 [8] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 07:07:21
+2016-09-08 07:08:48,140 [8] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 07:08:48
+2016-09-08 07:10:14,541 [8] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 07:10:14
+2016-09-08 07:11:40,943 [8] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 07:11:40
+2016-09-08 07:13:07,345 [8] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 07:13:07
+2016-09-08 07:14:33,747 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 07:14:33
+2016-09-08 07:16:00,148 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 07:16:00
+2016-09-08 07:17:26,550 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 07:17:26
+2016-09-08 07:18:52,952 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 07:18:52
+2016-09-08 07:20:19,354 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 07:20:19
+2016-09-08 07:21:45,755 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 07:21:45
+2016-09-08 07:23:12,157 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 07:23:12
+2016-09-08 07:24:38,559 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 07:24:38
+2016-09-08 07:26:04,976 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 07:26:04
+2016-09-08 07:27:31,378 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:27:31
+2016-09-08 07:28:57,780 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:28:57
+2016-09-08 07:30:24,182 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:30:24
+2016-09-08 07:31:50,583 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 07:31:50
+2016-09-08 07:33:16,985 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:33:16
+2016-09-08 07:34:43,387 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 07:34:43
+2016-09-08 07:36:09,789 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 07:36:09
+2016-09-08 07:37:36,190 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:37:36
+2016-09-08 07:39:02,592 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:39:02
+2016-09-08 07:40:28,994 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 07:40:28
+2016-09-08 07:41:55,396 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 07:41:55
+2016-09-08 07:43:21,797 [8] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 07:43:21
+2016-09-08 07:44:48,199 [8] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 07:44:48
+2016-09-08 07:46:14,601 [8] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 07:46:14
+2016-09-08 07:47:41,003 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 07:47:41
+2016-09-08 07:49:07,404 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 07:49:07
+2016-09-08 07:50:33,806 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 07:50:33
+2016-09-08 07:52:00,208 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 07:52:00
+2016-09-08 07:53:26,610 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 07:53:26
+2016-09-08 07:54:53,011 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 07:54:53
+2016-09-08 07:56:19,413 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 07:56:19
+2016-09-08 07:57:45,815 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 07:57:45
+2016-09-08 07:59:12,217 [8] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 07:59:12
+2016-09-08 08:00:38,618 [8] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 08:00:38
+2016-09-08 08:02:05,020 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 08:02:05
+2016-09-08 08:03:31,422 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 08:03:31
+2016-09-08 08:04:57,824 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 08:04:57
+2016-09-08 08:06:24,225 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 08:06:24
+2016-09-08 08:07:50,770 [8] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 08:07:50
+2016-09-08 08:09:17,329 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 08:09:17
+2016-09-08 08:10:43,887 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 08:10:43
+2016-09-08 08:12:10,402 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 08:12:10
+2016-09-08 08:13:36,861 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 08:13:36
+2016-09-08 08:15:03,321 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 08:15:03
+2016-09-08 08:16:29,780 [8] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 08:16:29
+2016-09-08 08:17:56,205 [8] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 08:17:56
+2016-09-08 08:19:22,628 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 08:19:22
+2016-09-08 08:20:49,051 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 08:20:49
+2016-09-08 08:22:15,484 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 08:22:15
+2016-09-08 08:23:41,895 [8] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 08:23:41
+2016-09-08 08:25:08,305 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 08:25:08
+2016-09-08 08:26:34,716 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 08:26:34
+2016-09-08 08:28:01,121 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 08:28:01
+2016-09-08 08:29:27,527 [8] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 08:29:27
+2016-09-08 08:30:53,933 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 08:30:53
+2016-09-08 08:32:20,338 [8] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 08:32:20
+2016-09-08 08:33:46,742 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 08:33:46
+2016-09-08 08:35:13,147 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 08:35:13
+2016-09-08 08:36:39,551 [8] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 08:36:39
+2016-09-08 08:38:05,986 [8] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 08:38:05
+2016-09-08 08:39:32,359 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 08:39:32
+2016-09-08 08:40:58,763 [8] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 08:40:58
+2016-09-08 08:42:25,167 [8] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 08:42:25
+2016-09-08 08:43:51,570 [8] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 08:43:51
+2016-09-08 08:45:17,973 [8] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 08:45:17
+2016-09-08 08:46:44,377 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 08:46:44
+2016-09-08 08:48:10,780 [8] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 08:48:10
+2016-09-08 08:49:15,766 [8] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 36] Application shutdown. Reason: ConfigurationChange
+2016-09-08 08:51:32,336 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Determining hash of code files on disk
+2016-09-08 08:51:32,399 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Hash determined (took 25ms)
+2016-09-08 08:51:32,414 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 08:51:32,445 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 28ms)
+2016-09-08 08:51:32,461 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 08:51:32,461 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 6ms)
+2016-09-08 08:51:32,461 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 08:51:32,477 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 1ms)
+2016-09-08 08:51:32,492 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 08:51:32,492 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2016-09-08 08:51:32,492 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 08:51:32,492 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 1ms)
+2016-09-08 08:51:32,492 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 08:51:32,508 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2016-09-08 08:51:32,508 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 08:51:32,508 [32] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 1ms)
+2016-09-08 08:51:33,007 [32] INFO  WSC.Examine.ProductDataIndexer - [Thread 26] New()
+2016-09-08 08:51:33,241 [32] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 08:51:33,241 [32] INFO  WSC.ProductIndexTimer.Events - [Thread 26] HttpContext: False
+2016-09-08 08:51:33,241 [32] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Cache: False
+2016-09-08 08:51:33,350 [32] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - Cache Last Updated: 5
+2016-09-08 08:51:33,350 [32] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - DocumentCount: 855
+2016-09-08 08:51:33,397 [32] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Initializing Examine and binding to business logic events
+2016-09-08 08:51:33,397 [32] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Adding examine event handlers for index providers: 3
+2016-09-08 08:51:33,834 [32] INFO  Umbraco.Web.UmbracoModule - [Thread 20] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 08:51:34,068 [32] INFO  umbraco.content - [Thread 19] Loading content from disk cache...
+2016-09-08 08:51:34,271 [32] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 08:51:34,286 [32] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 2ms)
+2016-09-08 08:51:35,472 [32] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 08:51:35,487 [32] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 2ms)
+2016-09-08 08:51:36,220 [32] INFO  WSC.Datalayer - [Thread 20] Create New CPP.Database connection
+2016-09-08 08:52:36,885 [32] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 08:52:36
+2016-09-08 08:54:03,304 [32] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 08:54:03
+2016-09-08 08:55:29,692 [32] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 08:55:29
+2016-09-08 08:56:56,096 [32] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 08:56:56
+2016-09-08 08:58:04,420 [32] INFO  WSC.ProductIndexTimer.Events - [Thread 35] Cache Removed: 1
+2016-09-08 08:58:04,420 [32] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 35] Application shutdown. Reason: ConfigurationChange
+2016-09-08 08:58:09,505 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Determining hash of code files on disk
+2016-09-08 08:58:09,536 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Hash determined (took 22ms)
+2016-09-08 08:58:09,552 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 08:58:09,583 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 37ms)
+2016-09-08 08:58:09,599 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 08:58:09,599 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 5ms)
+2016-09-08 08:58:09,599 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 08:58:09,599 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 1ms)
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 1ms)
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 08:58:09,630 [12] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2016-09-08 08:58:09,926 [12] INFO  WSC.Examine.ProductDataIndexer - [Thread 26] New()
+2016-09-08 08:58:10,113 [12] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 08:58:10,113 [12] INFO  WSC.ProductIndexTimer.Events - [Thread 26] HttpContext: False
+2016-09-08 08:58:10,113 [12] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Cache: False
+2016-09-08 08:58:10,207 [12] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - Cache Last Updated: 5
+2016-09-08 08:58:10,207 [12] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - DocumentCount: 855
+2016-09-08 08:58:10,238 [12] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Initializing Examine and binding to business logic events
+2016-09-08 08:58:10,238 [12] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Adding examine event handlers for index providers: 3
+2016-09-08 08:58:10,456 [12] INFO  Umbraco.Web.UmbracoModule - [Thread 18] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 08:58:10,550 [12] INFO  umbraco.content - [Thread 18] Loading content from disk cache...
+2016-09-08 08:58:10,971 [12] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 08:58:10,971 [12] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 1ms)
+2016-09-08 08:58:11,439 [12] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 08:58:11,439 [12] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 1ms)
+2016-09-08 08:58:19,332 [12] INFO  WSC.Datalayer - [Thread 30] Create New CPP.Database connection
+2016-09-08 08:59:12,229 [12] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 08:59:12
+2016-09-08 09:00:01,818 [12] INFO  WSC.ProductIndexTimer.Events - [Thread 29] Cache Removed: 1
+2016-09-08 09:00:01,818 [12] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 29] Application shutdown. Reason: ConfigurationChange
+2016-09-08 09:00:32,206 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Determining hash of code files on disk
+2016-09-08 09:00:32,252 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Hash determined (took 25ms)
+2016-09-08 09:00:32,268 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 09:00:32,315 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 44ms)
+2016-09-08 09:00:32,330 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 09:00:32,330 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 6ms)
+2016-09-08 09:00:32,330 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 09:00:32,330 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 1ms)
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 1ms)
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2016-09-08 09:00:32,361 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 09:00:32,377 [16] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 1ms)
+2016-09-08 09:00:32,736 [16] INFO  WSC.Examine.ProductDataIndexer - [Thread 26] New()
+2016-09-08 09:00:32,970 [16] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 09:00:32,970 [16] INFO  WSC.ProductIndexTimer.Events - [Thread 26] HttpContext: False
+2016-09-08 09:00:32,970 [16] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Cache: False
+2016-09-08 09:00:33,079 [16] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - Cache Last Updated: 6
+2016-09-08 09:00:33,079 [16] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - DocumentCount: 855
+2016-09-08 09:00:33,110 [16] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Initializing Examine and binding to business logic events
+2016-09-08 09:00:33,110 [16] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Adding examine event handlers for index providers: 3
+2016-09-08 09:00:33,438 [16] INFO  Umbraco.Web.UmbracoModule - [Thread 19] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 09:00:33,547 [16] INFO  umbraco.content - [Thread 19] Loading content from disk cache...
+2016-09-08 09:00:33,765 [16] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 09:00:33,765 [16] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 2ms)
+2016-09-08 09:00:35,403 [16] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 09:00:35,403 [16] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 2ms)
+2016-09-08 09:01:37,706 [16] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 09:01:37
+2016-09-08 09:03:04,063 [16] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 09:03:04
+2016-09-08 09:04:30,466 [16] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 09:04:30
+2016-09-08 09:05:56,870 [16] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 09:05:56
+2016-09-08 09:07:23,273 [16] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 09:07:23
+2016-09-08 09:08:49,676 [16] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 09:08:49
+2016-09-08 09:10:16,080 [16] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 09:10:16
+2016-09-08 09:11:42,483 [16] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 09:11:42
+2016-09-08 09:13:08,887 [16] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 09:13:08
+2016-09-08 09:14:35,290 [16] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 09:14:35
+2016-09-08 09:16:01,693 [16] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 09:16:01
+2016-09-08 09:17:28,112 [16] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 09:17:28
+2016-09-08 09:18:54,516 [16] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 09:18:54
+2016-09-08 09:20:20,919 [16] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 09:20:20
+2016-09-08 09:21:47,323 [16] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 09:21:47
+2016-09-08 09:23:13,726 [16] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2016-07-10 09:23:13
+2016-09-08 09:24:40,130 [16] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 09:24:40
+2016-09-08 09:25:58,640 [16] INFO  WSC.ProductIndexTimer.Events - [Thread 45] Cache Removed: 1
+2016-09-08 09:25:58,640 [16] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 45] Application shutdown. Reason: ConfigurationChange
+2016-09-08 09:26:04,848 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Determining hash of code files on disk
+2016-09-08 09:26:04,879 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Hash determined (took 26ms)
+2016-09-08 09:26:04,911 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 09:26:04,957 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 44ms)
+2016-09-08 09:26:04,957 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 09:26:04,957 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 6ms)
+2016-09-08 09:26:04,957 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 09:26:04,973 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 1ms)
+2016-09-08 09:26:04,989 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 1ms)
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 09:26:05,004 [21] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 1ms)
+2016-09-08 09:26:05,363 [21] INFO  WSC.Examine.ProductDataIndexer - [Thread 26] New()
+2016-09-08 09:26:05,597 [21] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 09:26:05,597 [21] INFO  WSC.ProductIndexTimer.Events - [Thread 26] HttpContext: False
+2016-09-08 09:26:05,597 [21] INFO  WSC.ProductIndexTimer.Events - [Thread 26] Cache: False
+2016-09-08 09:26:05,706 [21] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - Cache Last Updated: 6
+2016-09-08 09:26:05,706 [21] INFO  WSC.ProductIndexTimer.Events - [Thread 26] StartUp - DocumentCount: 855
+2016-09-08 09:26:05,753 [21] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Initializing Examine and binding to business logic events
+2016-09-08 09:26:05,753 [21] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 26] Adding examine event handlers for index providers: 3
+2016-09-08 09:26:06,081 [21] INFO  Umbraco.Web.UmbracoModule - [Thread 45] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 09:26:06,221 [21] INFO  umbraco.content - [Thread 45] Loading content from disk cache...
+2016-09-08 09:26:06,439 [21] INFO  Umbraco.Core.PluginManager - [Thread 45] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 09:26:06,439 [21] INFO  Umbraco.Core.PluginManager - [Thread 45] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 2ms)
+2016-09-08 09:26:07,344 [21] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 45] An unhandled exception occurred
+System.Configuration.ConfigurationErrorsException: Unrecognized element 'sessionState'. (E:\inetpub\sites\coastalpet.com\www\web.config line 90)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Web.Configuration.RuntimeConfig.GetSectionObject(String sectionName)
+   at System.Web.Configuration.RuntimeConfig.GetSection(String sectionName, Type type, ResultsIndex index)
+   at System.Web.Configuration.RuntimeConfig.get_Pages()
+   at System.Web.UI.TemplateParser.PrepareParse()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at Umbraco.Web.Mvc.RenderRouteHandler.GetWebFormsHandler()
+   at System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   at Umbraco.Web.UmbracoModule.ProcessRequest(HttpContextBase httpContext)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-09-08 09:26:31,273 [21] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 33] An unhandled exception occurred
+System.Configuration.ConfigurationErrorsException: Unrecognized element 'sessionState'. (E:\inetpub\sites\coastalpet.com\www\web.config line 90)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Web.Configuration.RuntimeConfig.GetSectionObject(String sectionName)
+   at System.Web.Configuration.RuntimeConfig.GetSection(String sectionName, Type type, ResultsIndex index)
+   at System.Web.Configuration.RuntimeConfig.get_Pages()
+   at System.Web.UI.TemplateParser.PrepareParse()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at Umbraco.Web.Mvc.RenderRouteHandler.GetWebFormsHandler()
+   at System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   at Umbraco.Web.UmbracoModule.ProcessRequest(HttpContextBase httpContext)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-09-08 09:26:32,100 [21] INFO  WSC.ProductIndexTimer.Events - [Thread 35] Cache Removed: 1
+2016-09-08 09:26:32,100 [21] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 35] Application shutdown. Reason: ConfigurationChange
+2016-09-08 09:26:37,216 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2016-09-08 09:26:37,248 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 22ms)
+2016-09-08 09:26:37,279 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 09:26:37,310 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 37ms)
+2016-09-08 09:26:37,310 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 09:26:37,326 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 5ms)
+2016-09-08 09:26:37,326 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 09:26:37,326 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 1ms)
+2016-09-08 09:26:37,341 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 09:26:37,341 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2016-09-08 09:26:37,341 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 09:26:37,357 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 1ms)
+2016-09-08 09:26:37,357 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 09:26:37,357 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2016-09-08 09:26:37,357 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 09:26:37,357 [19] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2016-09-08 09:26:37,653 [19] INFO  WSC.Examine.ProductDataIndexer - [Thread 1] New()
+2016-09-08 09:26:37,887 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 09:26:37,887 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 1] HttpContext: False
+2016-09-08 09:26:37,887 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Cache: False
+2016-09-08 09:26:37,996 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - Cache Last Updated: 6
+2016-09-08 09:26:37,996 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - DocumentCount: 855
+2016-09-08 09:26:38,043 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2016-09-08 09:26:38,043 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2016-09-08 09:26:38,340 [19] INFO  Umbraco.Web.UmbracoModule - [Thread 30] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 09:26:38,449 [19] INFO  umbraco.content - [Thread 30] Loading content from disk cache...
+2016-09-08 09:26:38,636 [19] INFO  Umbraco.Core.PluginManager - [Thread 30] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 09:26:38,636 [19] INFO  Umbraco.Core.PluginManager - [Thread 30] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 2ms)
+2016-09-08 09:26:40,882 [19] INFO  Umbraco.Core.PluginManager - [Thread 30] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 09:26:40,882 [19] INFO  Umbraco.Core.PluginManager - [Thread 30] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 2ms)
+2016-09-08 09:27:42,982 [19] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 09:27:42
+2016-09-08 09:29:09,339 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 09:29:09
+2016-09-08 09:30:35,742 [19] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2016-07-10 09:30:35
+2016-09-08 09:32:02,146 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 09:32:02
+2016-09-08 09:33:28,549 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 09:33:28
+2016-09-08 09:34:54,952 [19] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 09:34:54
+2016-09-08 09:36:21,356 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 09:36:21
+2016-09-08 09:37:47,759 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 09:37:47
+2016-09-08 09:39:14,163 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 09:39:14
+2016-09-08 09:40:40,566 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 09:40:40
+2016-09-08 09:42:06,970 [19] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 09:42:06
+2016-09-08 09:43:33,373 [19] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 09:43:33
+2016-09-08 09:44:59,776 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 09:44:59
+2016-09-08 09:46:26,180 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 09:46:26
+2016-09-08 09:47:52,583 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 09:47:52
+2016-09-08 09:49:18,987 [19] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 09:49:18
+2016-09-08 09:50:45,390 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 09:50:45
+2016-09-08 09:52:11,793 [19] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 09:52:11
+2016-09-08 09:53:38,197 [19] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 09:53:38
+2016-09-08 09:55:04,600 [19] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 09:55:04
+2016-09-08 09:56:31,004 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 09:56:31
+2016-09-08 09:57:57,407 [19] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 09:57:57
+2016-09-08 09:59:23,811 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 09:59:23
+2016-09-08 10:00:50,214 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 10:00:50
+2016-09-08 10:01:13,535 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 45] Cache Removed: 1
+2016-09-08 10:01:13,535 [19] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 45] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2016-09-08 10:01:40,958 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2016-09-08 10:01:41,005 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 26ms)
+2016-09-08 10:01:41,036 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 10:01:41,847 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 809ms)
+2016-09-08 10:01:41,909 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 10:01:41,941 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 27ms)
+2016-09-08 10:01:41,941 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 10:01:41,956 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 15ms)
+2016-09-08 10:01:42,003 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 10:01:42,019 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 8ms)
+2016-09-08 10:01:42,019 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 10:01:42,034 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 8ms)
+2016-09-08 10:01:42,034 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 10:01:42,050 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 11ms)
+2016-09-08 10:01:42,050 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 10:01:42,050 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 10ms)
+2016-09-08 10:01:42,565 [37] INFO  WSC.Examine.ProductDataIndexer - [Thread 1] New()
+2016-09-08 10:01:42,892 [37] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 10:01:42,892 [37] INFO  WSC.ProductIndexTimer.Events - [Thread 1] HttpContext: False
+2016-09-08 10:01:42,892 [37] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Cache: False
+2016-09-08 10:01:43,142 [37] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - Cache Last Updated: 7
+2016-09-08 10:01:43,142 [37] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - DocumentCount: 855
+2016-09-08 10:01:43,235 [37] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2016-09-08 10:01:43,235 [37] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2016-09-08 10:01:43,719 [37] INFO  Umbraco.Web.UmbracoModule - [Thread 30] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 10:01:43,922 [37] INFO  umbraco.content - [Thread 33] Loading content from disk cache...
+2016-09-08 10:01:44,280 [37] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 10:01:44,296 [37] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 17ms)
+2016-09-08 10:01:56,588 [37] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 10:01:56,635 [37] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 46ms)
+2016-09-08 10:02:11,641 [37] INFO  WSC.Datalayer - [Thread 30] Create New CPP.Database connection
+2016-09-08 10:03:03,009 [37] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 10:03:02
+2016-09-08 10:04:29,381 [37] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 10:04:29
+2016-09-08 10:05:03,871 [37] INFO  WSC.ProductIndexTimer.Events - [Thread 40] Cache Removed: 1
+2016-09-08 10:05:03,871 [37] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 40] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2016-09-08 10:05:41,761 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2016-09-08 10:05:41,808 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 26ms)
+2016-09-08 10:05:41,839 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 10:05:42,182 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 349ms)
+2016-09-08 10:05:42,260 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 10:05:42,292 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 27ms)
+2016-09-08 10:05:42,292 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 10:05:42,307 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 14ms)
+2016-09-08 10:05:42,354 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 10:05:42,354 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 8ms)
+2016-09-08 10:05:42,354 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 10:05:42,370 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 8ms)
+2016-09-08 10:05:42,370 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 10:05:42,385 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 10ms)
+2016-09-08 10:05:42,385 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 10:05:42,401 [29] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 10ms)
+2016-09-08 10:05:42,900 [29] INFO  WSC.Examine.ProductDataIndexer - [Thread 1] New()
+2016-09-08 10:05:43,321 [29] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2016-09-08 10:05:43,321 [29] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2016-09-08 10:05:43,321 [29] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 10:05:43,337 [29] INFO  WSC.ProductIndexTimer.Events - [Thread 1] HttpContext: False
+2016-09-08 10:05:43,337 [29] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Cache: False
+2016-09-08 10:05:43,571 [29] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - Cache Last Updated: 7
+2016-09-08 10:05:43,571 [29] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - DocumentCount: 855
+2016-09-08 10:05:44,039 [29] INFO  Umbraco.Web.UmbracoModule - [Thread 45] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 10:05:44,241 [29] INFO  umbraco.content - [Thread 45] Loading content from disk cache...
+2016-09-08 10:05:44,600 [29] INFO  Umbraco.Core.PluginManager - [Thread 45] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 10:05:44,616 [29] INFO  Umbraco.Core.PluginManager - [Thread 45] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 16ms)
+2016-09-08 10:05:51,027 [29] INFO  Umbraco.Core.PluginManager - [Thread 45] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 10:05:51,058 [29] INFO  Umbraco.Core.PluginManager - [Thread 45] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 20ms)
+2016-09-08 10:06:56,372 [29] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 10:06:56
+2016-09-08 10:07:24,388 [29] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 40] An unhandled exception occurred
+System.Web.HttpCompileException (0x80004005): E:\inetpub\sites\coastalpet.com\www\usercontrols\cart\Cart.ascx.vb(170): error BC30456: 'Empty' is not a member of 'WSC.Datalayer.Cart'.
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.TemplateControl.LoadControl(VirtualPath virtualPath)
+   at usercontrols_Cart_CartPageLoader.Page_Init(Object sender, EventArgs e) in E:\inetpub\sites\coastalpet.com\www\usercontrols\Cart\CartPageLoader.ascx.vb:line 20
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.AddedControl(Control control, Int32 index)
+   at umbraco.presentation.templateControls.Macro.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\403f1f7d\c008ee46\App_Web_default.aspx.cdcab7d2.6k5l-ncl.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-09-08 10:08:22,713 [29] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 10:08:22
+2016-09-08 10:09:49,116 [29] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 10:09:49
+2016-09-08 10:10:21,266 [29] INFO  WSC.ProductIndexTimer.Events - [Thread 40] Cache Removed: 1
+2016-09-08 10:10:21,266 [29] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 40] Application shutdown. Reason: ChangeInGlobalAsax
+2016-09-08 10:19:26,860 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Determining hash of code files on disk
+2016-09-08 10:19:26,907 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Hash determined (took 25ms)
+2016-09-08 10:19:26,938 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 10:19:27,281 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 350ms)
+2016-09-08 10:19:27,359 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 10:19:27,375 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 27ms)
+2016-09-08 10:19:27,390 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 10:19:27,390 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 14ms)
+2016-09-08 10:19:27,453 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 10:19:27,453 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 8ms)
+2016-09-08 10:19:27,453 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 10:19:27,468 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 8ms)
+2016-09-08 10:19:27,468 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 10:19:27,484 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 10ms)
+2016-09-08 10:19:27,484 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 10:19:27,484 [41] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 10ms)
+2016-09-08 10:19:27,999 [41] INFO  WSC.Examine.ProductDataIndexer - [Thread 36] New()
+2016-09-08 10:19:28,420 [41] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 36] Initializing Examine and binding to business logic events
+2016-09-08 10:19:28,420 [41] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 36] Adding examine event handlers for index providers: 3
+2016-09-08 10:19:28,435 [41] INFO  WSC.ProductIndexTimer.Events - [Thread 36] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 10:19:28,435 [41] INFO  WSC.ProductIndexTimer.Events - [Thread 36] HttpContext: False
+2016-09-08 10:19:28,435 [41] INFO  WSC.ProductIndexTimer.Events - [Thread 36] Cache: False
+2016-09-08 10:19:28,669 [41] INFO  WSC.ProductIndexTimer.Events - [Thread 36] StartUp - Cache Last Updated: 7
+2016-09-08 10:19:28,669 [41] INFO  WSC.ProductIndexTimer.Events - [Thread 36] StartUp - DocumentCount: 855
+2016-09-08 10:19:29,137 [41] INFO  Umbraco.Web.UmbracoModule - [Thread 12] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 10:19:29,356 [41] INFO  umbraco.content - [Thread 12] Loading content from disk cache...
+2016-09-08 10:19:30,245 [41] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 10:19:30,261 [41] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 14ms)
+2016-09-08 10:19:37,499 [41] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 10:19:37,545 [41] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 37ms)
+2016-09-08 10:19:57,575 [41] INFO  WSC.ProductIndexTimer.Events - [Thread 32] Cache Removed: 1
+2016-09-08 10:19:57,575 [41] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 32] Application shutdown. Reason: ChangeInGlobalAsax
+2016-09-08 10:20:47,538 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Determining hash of code files on disk
+2016-09-08 10:20:47,554 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Hash determined (took 13ms)
+2016-09-08 10:20:47,570 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 10:20:47,757 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 179ms)
+2016-09-08 10:20:47,788 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 10:20:47,804 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 14ms)
+2016-09-08 10:20:47,804 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 10:20:47,819 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 7ms)
+2016-09-08 10:20:47,835 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 10:20:47,850 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 4ms)
+2016-09-08 10:20:47,850 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 10:20:47,850 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 4ms)
+2016-09-08 10:20:47,850 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 10:20:47,850 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2016-09-08 10:20:47,850 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 10:20:47,866 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2016-09-08 10:20:48,287 [25] INFO  WSC.Examine.ProductDataIndexer - [Thread 36] New()
+2016-09-08 10:20:48,615 [25] INFO  WSC.ProductIndexTimer.Events - [Thread 36] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 10:20:48,615 [25] INFO  WSC.ProductIndexTimer.Events - [Thread 36] HttpContext: False
+2016-09-08 10:20:48,615 [25] INFO  WSC.ProductIndexTimer.Events - [Thread 36] Cache: False
+2016-09-08 10:20:48,864 [25] INFO  WSC.ProductIndexTimer.Events - [Thread 36] StartUp - Cache Last Updated: 7
+2016-09-08 10:20:48,864 [25] INFO  WSC.ProductIndexTimer.Events - [Thread 36] StartUp - DocumentCount: 855
+2016-09-08 10:20:48,958 [25] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 36] Initializing Examine and binding to business logic events
+2016-09-08 10:20:48,958 [25] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 36] Adding examine event handlers for index providers: 3
+2016-09-08 10:20:49,442 [25] INFO  Umbraco.Web.UmbracoModule - [Thread 37] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 10:20:49,644 [25] INFO  umbraco.content - [Thread 37] Loading content from disk cache...
+2016-09-08 10:20:50,003 [25] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 10:20:50,019 [25] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 17ms)
+2016-09-08 10:20:56,695 [25] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 10:20:56,726 [25] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 37ms)
+2016-09-08 10:22:02,789 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 10:22:02
+2016-09-08 10:23:29,182 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 10:23:29
+2016-09-08 10:24:55,713 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 10:24:55
+2016-09-08 10:26:22,244 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 10:26:22
+2016-09-08 10:27:48,775 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 10:27:48
+2016-09-08 10:29:15,239 [25] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 10:29:15
+2016-09-08 10:30:41,689 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 10:30:41
+2016-09-08 10:32:08,139 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 10:32:08
+2016-09-08 10:33:34,579 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 10:33:34
+2016-09-08 10:35:01,000 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 10:35:01
+2016-09-08 10:36:27,421 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 10:36:27
+2016-09-08 10:37:53,843 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 10:37:53
+2016-09-08 10:39:20,255 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 10:39:20
+2016-09-08 10:40:46,666 [25] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 10:40:46
+2016-09-08 10:42:13,077 [25] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 10:42:13
+2016-09-08 10:43:39,487 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 10:43:39
+2016-09-08 10:45:05,894 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 10:45:05
+2016-09-08 10:46:32,301 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 10:46:32
+2016-09-08 10:47:58,709 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 10:47:58
+2016-09-08 10:49:25,114 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 10:49:25
+2016-09-08 10:50:51,520 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 10:50:51
+2016-09-08 10:52:17,926 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 10:52:17
+2016-09-08 10:53:44,331 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 10:53:44
+2016-09-08 10:55:10,737 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 10:55:10
+2016-09-08 10:56:37,143 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 10:56:37
+2016-09-08 10:58:03,548 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 10:58:03
+2016-09-08 10:59:29,953 [25] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 10:59:29
+2016-09-08 11:00:56,358 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 11:00:56
+2016-09-08 11:02:22,763 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 11:02:22
+2016-09-08 11:03:49,169 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 11:03:49
+2016-09-08 11:05:15,574 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:05:15
+2016-09-08 11:06:41,979 [25] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 11:06:41
+2016-09-08 11:08:08,384 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 11:08:08
+2016-09-08 11:09:34,804 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 11:09:34
+2016-09-08 11:11:01,210 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:11:01
+2016-09-08 11:12:27,615 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:12:27
+2016-09-08 11:13:54,020 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:13:54
+2016-09-08 11:15:20,425 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:15:20
+2016-09-08 11:16:46,830 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:16:46
+2016-09-08 11:18:13,235 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 11:18:13
+2016-09-08 11:19:39,640 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 11:19:39
+2016-09-08 11:21:06,045 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 11:21:06
+2016-09-08 11:22:32,450 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 11:22:32
+2016-09-08 11:23:58,855 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 11:23:58
+2016-09-08 11:25:25,260 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 11:25:25
+2016-09-08 11:26:51,665 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 11:26:51
+2016-09-08 11:28:18,070 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 11:28:18
+2016-09-08 11:29:44,476 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 11:29:44
+2016-09-08 11:31:10,881 [25] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 11:31:10
+2016-09-08 11:32:37,286 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 11:32:37
+2016-09-08 11:34:03,691 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 11:34:03
+2016-09-08 11:35:30,096 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 11:35:30
+2016-09-08 11:36:56,501 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 11:36:56
+2016-09-08 11:38:22,906 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 11:38:22
+2016-09-08 11:39:49,311 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 11:39:49
+2016-09-08 11:41:15,716 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 11:41:15
+2016-09-08 11:42:42,121 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 11:42:42
+2016-09-08 11:44:08,526 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 11:44:08
+2016-09-08 11:45:34,931 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 11:45:34
+2016-09-08 11:47:01,336 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 11:47:01
+2016-09-08 11:47:58,805 [25] INFO  WSC.Datalayer - [Thread 29] Create New CPP.Database connection
+2016-09-08 11:48:27,742 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 11:48:27
+2016-09-08 11:49:54,147 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 11:49:54
+2016-09-08 11:51:20,552 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 11:51:20
+2016-09-08 11:52:46,957 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 11:52:46
+2016-09-08 11:54:13,362 [25] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 11:54:13
+2016-09-08 11:55:39,767 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 11:55:39
+2016-09-08 11:57:06,172 [25] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 11:57:06
+2016-09-08 11:58:32,577 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 11:58:32
+2016-09-08 11:59:58,982 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 11:59:58
+2016-09-08 12:01:25,387 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 12:01:25
+2016-09-08 12:02:51,792 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 12:02:51
+2016-09-08 12:04:18,197 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 12:04:18
+2016-09-08 12:05:44,618 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 12:05:44
+2016-09-08 12:07:11,023 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 12:07:11
+2016-09-08 12:08:37,428 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 12:08:37
+2016-09-08 12:10:03,833 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 12:10:03
+2016-09-08 12:11:30,238 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 12:11:30
+2016-09-08 12:12:56,643 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 12:12:56
+2016-09-08 12:14:23,049 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 12:14:23
+2016-09-08 12:15:49,454 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 12:15:49
+2016-09-08 12:17:15,859 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 12:17:15
+2016-09-08 12:18:42,264 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 12:18:42
+2016-09-08 12:20:08,669 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 12:20:08
+2016-09-08 12:21:35,074 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 12:21:35
+2016-09-08 12:23:01,479 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 12:23:01
+2016-09-08 12:24:27,884 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 12:24:27
+2016-09-08 12:25:54,289 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 12:25:54
+2016-09-08 12:27:20,694 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 12:27:20
+2016-09-08 12:28:47,099 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 12:28:47
+2016-09-08 12:30:13,504 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 12:30:13
+2016-09-08 12:31:39,909 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 12:31:39
+2016-09-08 12:33:06,315 [25] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 12:33:06
+2016-09-08 12:34:32,720 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 12:34:32
+2016-09-08 12:35:59,125 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 12:35:59
+2016-09-08 12:37:25,530 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 12:37:25
+2016-09-08 12:38:51,935 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 12:38:51
+2016-09-08 12:40:18,405 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 12:40:18
+2016-09-08 12:41:44,909 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 12:41:44
+2016-09-08 12:43:11,427 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 12:43:11
+2016-09-08 12:44:37,902 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 12:44:37
+2016-09-08 12:46:04,343 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 12:46:04
+2016-09-08 12:47:30,784 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 12:47:30
+2016-09-08 12:48:57,224 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 12:48:57
+2016-09-08 12:50:23,649 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 12:50:23
+2016-09-08 12:51:50,068 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 12:51:50
+2016-09-08 12:53:16,487 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 12:53:16
+2016-09-08 12:54:42,904 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 12:54:42
+2016-09-08 12:56:09,330 [25] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 12:56:09
+2016-09-08 12:57:35,725 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 12:57:35
+2016-09-08 12:59:02,135 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 12:59:02
+2016-09-08 13:00:28,544 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 13:00:28
+2016-09-08 13:01:54,967 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 13:01:54
+2016-09-08 13:03:21,375 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 13:03:21
+2016-09-08 13:04:47,783 [25] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 13:04:47
+2016-09-08 13:06:14,189 [25] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 13:06:14
+2016-09-08 13:07:40,596 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 13:07:40
+2016-09-08 13:09:07,003 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 13:09:07
+2016-09-08 13:10:33,409 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 13:10:33
+2016-09-08 13:11:59,815 [25] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 13:11:59
+2016-09-08 13:13:26,222 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 13:13:26
+2016-09-08 13:14:52,628 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 13:14:52
+2016-09-08 13:16:19,034 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 13:16:19
+2016-09-08 13:17:45,440 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 13:17:45
+2016-09-08 13:19:11,862 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 13:19:11
+2016-09-08 13:20:38,252 [25] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 13:20:38
+2016-09-08 13:22:04,659 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 13:22:04
+2016-09-08 13:23:31,065 [25] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 13:23:31
+2016-09-08 13:24:57,471 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 13:24:57
+2016-09-08 13:26:23,877 [25] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 13:26:23
+2016-09-08 13:27:50,283 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 13:27:50
+2016-09-08 13:29:16,690 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 13:29:16
+2016-09-08 13:30:43,096 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 13:30:43
+2016-09-08 13:32:09,502 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 13:32:09
+2016-09-08 13:33:35,908 [25] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 13:33:35
+2016-09-08 13:35:02,314 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 13:35:02
+2016-09-08 13:36:28,721 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 13:36:28
+2016-09-08 13:37:55,127 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 13:37:55
+2016-09-08 13:39:21,533 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 13:39:21
+2016-09-08 13:40:47,939 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 13:40:47
+2016-09-08 13:42:14,345 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 13:42:14
+2016-09-08 13:43:40,751 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 13:43:40
+2016-09-08 13:45:07,158 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 13:45:07
+2016-09-08 13:46:33,564 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 13:46:33
+2016-09-08 13:47:59,970 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 13:47:59
+2016-09-08 13:49:26,376 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 13:49:26
+2016-09-08 13:50:52,782 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 13:50:52
+2016-09-08 13:52:19,189 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 13:52:19
+2016-09-08 13:53:45,595 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 13:53:45
+2016-09-08 13:55:12,001 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 13:55:12
+2016-09-08 13:56:38,423 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 13:56:38
+2016-09-08 13:58:04,829 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 13:58:04
+2016-09-08 13:59:31,235 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 13:59:31
+2016-09-08 14:00:57,641 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 14:00:57
+2016-09-08 14:02:24,047 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 14:02:24
+2016-09-08 14:03:50,454 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 14:03:50
+2016-09-08 14:05:16,860 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 14:05:16
+2016-09-08 14:06:43,266 [25] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 14:06:43
+2016-09-08 14:08:09,672 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 14:08:09
+2016-09-08 14:09:36,078 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 14:09:36
+2016-09-08 14:11:02,485 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 14:11:02
+2016-09-08 14:12:28,891 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 14:12:28
+2016-09-08 14:13:55,297 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 14:13:55
+2016-09-08 14:15:21,703 [25] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 14:15:21
+2016-09-08 14:16:48,109 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 14:16:48
+2016-09-08 14:18:14,515 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 14:18:14
+2016-09-08 14:19:40,922 [25] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 14:19:40
+2016-09-08 14:21:07,328 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 14:21:07
+2016-09-08 14:22:33,734 [25] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 14:22:33
+2016-09-08 14:24:00,140 [25] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 14:24:00
+2016-09-08 14:25:26,546 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 14:25:26
+2016-09-08 14:26:52,953 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 14:26:52
+2016-09-08 14:28:19,359 [25] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2016-07-10 14:28:19
+2016-09-08 14:29:45,765 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 14:29:45
+2016-09-08 14:31:12,171 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 14:31:12
+2016-09-08 14:32:38,577 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 14:32:38
+2016-09-08 14:34:04,983 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 14:34:04
+2016-09-08 14:35:31,390 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 14:35:31
+2016-09-08 14:36:57,796 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 14:36:57
+2016-09-08 14:38:24,202 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 14:38:24
+2016-09-08 14:39:50,608 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 14:39:50
+2016-09-08 14:41:17,014 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 14:41:17
+2016-09-08 14:42:43,421 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 14:42:43
+2016-09-08 14:44:09,827 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 14:44:09
+2016-09-08 14:45:36,233 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 14:45:36
+2016-09-08 14:47:02,639 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 14:47:02
+2016-09-08 14:48:29,045 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 14:48:29
+2016-09-08 14:49:55,452 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 14:49:55
+2016-09-08 14:51:21,858 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 14:51:21
+2016-09-08 14:52:48,279 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 14:52:48
+2016-09-08 14:54:14,686 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 14:54:14
+2016-09-08 14:55:41,092 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 14:55:41
+2016-09-08 14:57:07,552 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 14:57:07
+2016-09-08 14:58:34,036 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 14:58:34
+2016-09-08 15:00:00,520 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 15:00:00
+2016-09-08 15:01:26,994 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 15:01:26
+2016-09-08 15:02:53,428 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 15:02:53
+2016-09-08 15:04:19,863 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 15:04:19
+2016-09-08 15:05:46,297 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 15:05:46
+2016-09-08 15:07:12,718 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 15:07:12
+2016-09-08 15:08:39,135 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 15:08:39
+2016-09-08 15:10:05,552 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 15:10:05
+2016-09-08 15:11:31,967 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 15:11:31
+2016-09-08 15:12:58,377 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 15:12:58
+2016-09-08 15:14:24,788 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 15:14:24
+2016-09-08 15:15:51,199 [25] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 15:15:51
+2016-09-08 15:17:17,607 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 15:17:17
+2016-09-08 15:18:44,015 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 15:18:44
+2016-09-08 15:20:10,423 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 15:20:10
+2016-09-08 15:21:36,830 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 15:21:36
+2016-09-08 15:23:03,238 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 15:23:03
+2016-09-08 15:24:29,645 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 15:24:29
+2016-09-08 15:25:56,052 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 15:25:56
+2016-09-08 15:27:22,459 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 15:27:22
+2016-09-08 15:28:48,866 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 15:28:48
+2016-09-08 15:30:15,273 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 15:30:15
+2016-09-08 15:31:41,679 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 15:31:41
+2016-09-08 15:33:08,086 [25] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 15:33:08
+2016-09-08 15:34:34,493 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 15:34:34
+2016-09-08 15:36:00,900 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 15:36:00
+2016-09-08 15:37:27,306 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 15:37:27
+2016-09-08 15:38:53,713 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 15:38:53
+2016-09-08 15:40:20,135 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 15:40:20
+2016-09-08 15:41:46,527 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 15:41:46
+2016-09-08 15:43:12,933 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 15:43:12
+2016-09-08 15:44:39,340 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 15:44:39
+2016-09-08 15:46:05,747 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 15:46:05
+2016-09-08 15:47:32,153 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 15:47:32
+2016-09-08 15:48:58,576 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 15:48:58
+2016-09-08 15:50:24,983 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 15:50:24
+2016-09-08 15:51:51,389 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 15:51:51
+2016-09-08 15:53:17,796 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 15:53:17
+2016-09-08 15:54:44,203 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 15:54:44
+2016-09-08 15:56:10,610 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 15:56:10
+2016-09-08 15:57:37,016 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 15:57:37
+2016-09-08 15:59:03,423 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 15:59:03
+2016-09-08 16:00:29,830 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 16:00:29
+2016-09-08 16:01:56,236 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 16:01:56
+2016-09-08 16:03:22,643 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 16:03:22
+2016-09-08 16:04:49,050 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:04:49
+2016-09-08 16:06:15,457 [25] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 16:06:15
+2016-09-08 16:07:41,863 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:07:41
+2016-09-08 16:09:08,270 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 16:09:08
+2016-09-08 16:10:34,677 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:10:34
+2016-09-08 16:12:01,084 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 16:12:01
+2016-09-08 16:13:27,490 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 16:13:27
+2016-09-08 16:14:53,897 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 16:14:53
+2016-09-08 16:16:20,304 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 16:16:20
+2016-09-08 16:17:46,711 [25] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 16:17:46
+2016-09-08 16:19:13,117 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 16:19:13
+2016-09-08 16:20:39,524 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 16:20:39
+2016-09-08 16:22:05,931 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 16:22:05
+2016-09-08 16:23:32,338 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 16:23:32
+2016-09-08 16:24:58,744 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 16:24:58
+2016-09-08 16:26:25,151 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 16:26:25
+2016-09-08 16:27:51,558 [25] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 16:27:51
+2016-09-08 16:29:17,965 [25] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 16:29:17
+2016-09-08 16:30:44,371 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:30:44
+2016-09-08 16:32:10,778 [25] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 16:32:10
+2016-09-08 16:33:37,185 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:33:37
+2016-09-08 16:35:03,591 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:35:03
+2016-09-08 16:36:29,998 [25] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 16:36:29
+2016-09-08 16:37:56,405 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 16:37:56
+2016-09-08 16:39:22,812 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 16:39:22
+2016-09-08 16:40:49,218 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 16:40:49
+2016-09-08 16:42:15,625 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 16:42:15
+2016-09-08 16:43:42,032 [25] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 16:43:42
+2016-09-08 16:45:08,454 [25] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 16:45:08
+2016-09-08 16:46:34,861 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:46:34
+2016-09-08 16:48:01,268 [25] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2016-07-10 16:48:01
+2016-09-08 16:49:27,674 [25] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 16:49:27
+2016-09-08 16:50:54,097 [25] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 16:50:54
+2016-09-08 16:52:20,488 [25] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 16:52:20
+2016-09-08 16:53:46,895 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 16:53:46
+2016-09-08 16:55:13,301 [25] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 16:55:13
+2016-09-08 16:56:39,708 [25] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 16:56:39
+2016-09-08 16:58:06,115 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 16:58:06
+2016-09-08 16:59:32,522 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 16:59:32
+2016-09-08 17:00:58,928 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 17:00:58
+2016-09-08 17:02:25,335 [25] INFO  umbraco.BusinessLogic.Log - [Thread 3] Log scrubbed.  Removed all items older than 2016-07-10 17:02:25
+2016-09-08 17:03:51,742 [25] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 17:03:51
+2016-09-08 17:05:18,149 [25] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:05:18
+2016-09-08 17:06:44,555 [25] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 17:06:44
+2016-09-08 17:08:10,962 [25] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 17:08:10
+2016-09-08 17:09:37,369 [25] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 17:09:37
+2016-09-08 17:10:31,001 [25] INFO  WSC.ProductIndexTimer.Events - [Thread 44] Cache Removed: 1
+2016-09-08 17:10:31,001 [25] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 44] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2016-09-08 17:10:36,616 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Determining hash of code files on disk
+2016-09-08 17:10:36,663 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Hash determined (took 26ms)
+2016-09-08 17:10:36,694 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 17:10:37,053 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 345ms)
+2016-09-08 17:10:37,116 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 17:10:37,131 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 22ms)
+2016-09-08 17:10:37,131 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 17:10:37,147 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 12ms)
+2016-09-08 17:10:37,194 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 17:10:37,194 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 7ms)
+2016-09-08 17:10:37,194 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 17:10:37,209 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 7ms)
+2016-09-08 17:10:37,209 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 17:10:37,225 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2016-09-08 17:10:37,225 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 17:10:37,225 [19] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2016-09-08 17:10:37,693 [19] INFO  WSC.Examine.ProductDataIndexer - [Thread 36] New()
+2016-09-08 17:10:38,036 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 36] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 17:10:38,036 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 36] HttpContext: False
+2016-09-08 17:10:38,036 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 36] Cache: False
+2016-09-08 17:10:38,301 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 36] StartUp - Cache Last Updated: 14
+2016-09-08 17:10:38,301 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 36] StartUp - DocumentCount: 855
+2016-09-08 17:10:38,410 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 36] Initializing Examine and binding to business logic events
+2016-09-08 17:10:38,410 [19] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 36] Adding examine event handlers for index providers: 3
+2016-09-08 17:10:38,894 [19] INFO  Umbraco.Web.UmbracoModule - [Thread 35] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 17:10:39,097 [19] INFO  umbraco.content - [Thread 35] Loading content from disk cache...
+2016-09-08 17:10:39,456 [19] INFO  Umbraco.Core.PluginManager - [Thread 35] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 17:10:39,471 [19] INFO  Umbraco.Core.PluginManager - [Thread 35] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 16ms)
+2016-09-08 17:10:45,524 [19] INFO  Umbraco.Core.PluginManager - [Thread 35] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 17:10:45,555 [19] INFO  Umbraco.Core.PluginManager - [Thread 35] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 38ms)
+2016-09-08 17:11:51,979 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 17:11:51
+2016-09-08 17:13:18,358 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 17:13:18
+2016-09-08 17:14:44,822 [19] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 17:14:44
+2016-09-08 17:16:11,286 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:16:11
+2016-09-08 17:17:37,744 [19] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 17:17:37
+2016-09-08 17:19:04,171 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 17:19:04
+2016-09-08 17:20:30,599 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 17:20:30
+2016-09-08 17:21:57,026 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:21:57
+2016-09-08 17:23:23,445 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 17:23:23
+2016-09-08 17:24:49,859 [19] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 17:24:49
+2016-09-08 17:26:16,274 [19] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 17:26:16
+2016-09-08 17:27:42,687 [19] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 17:27:42
+2016-09-08 17:29:09,097 [19] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 17:29:09
+2016-09-08 17:30:35,507 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:30:35
+2016-09-08 17:32:01,917 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:32:01
+2016-09-08 17:33:28,326 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:33:28
+2016-09-08 17:34:54,735 [19] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 17:34:54
+2016-09-08 17:36:21,143 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:36:21
+2016-09-08 17:37:47,551 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:37:47
+2016-09-08 17:39:13,958 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 17:39:13
+2016-09-08 17:40:40,381 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:40:40
+2016-09-08 17:42:06,789 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 17:42:06
+2016-09-08 17:43:33,196 [19] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2016-07-10 17:43:33
+2016-09-08 17:44:59,603 [19] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 17:44:59
+2016-09-08 17:46:26,010 [19] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2016-07-10 17:46:26
+2016-09-08 17:47:52,418 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 17:47:52
+2016-09-08 17:49:18,825 [19] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 17:49:18
+2016-09-08 17:50:45,232 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 17:50:45
+2016-09-08 17:52:11,640 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 17:52:11
+2016-09-08 17:53:38,047 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 17:53:38
+2016-09-08 17:55:04,454 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 17:55:04
+2016-09-08 17:56:30,861 [19] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 17:56:30
+2016-09-08 17:57:57,269 [19] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 17:57:57
+2016-09-08 17:59:23,676 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 17:59:23
+2016-09-08 18:00:50,083 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 18:00:50
+2016-09-08 18:02:16,491 [19] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2016-07-10 18:02:16
+2016-09-08 18:03:42,898 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 18:03:42
+2016-09-08 18:05:09,305 [19] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 18:05:09
+2016-09-08 18:06:35,713 [19] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 18:06:35
+2016-09-08 18:08:02,120 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 18:08:02
+2016-09-08 18:09:28,527 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 18:09:28
+2016-09-08 18:10:54,934 [19] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 18:10:54
+2016-09-08 18:12:21,342 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 18:12:21
+2016-09-08 18:13:47,749 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 18:13:47
+2016-09-08 18:15:14,172 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 18:15:14
+2016-09-08 18:16:40,564 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 18:16:40
+2016-09-08 18:18:06,971 [19] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2016-07-10 18:18:06
+2016-09-08 18:19:33,378 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 18:19:33
+2016-09-08 18:20:59,785 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 18:20:59
+2016-09-08 18:22:26,193 [19] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 18:22:26
+2016-09-08 18:23:52,600 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 18:23:52
+2016-09-08 18:25:19,007 [19] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 18:25:19
+2016-09-08 18:26:45,415 [19] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 18:26:45
+2016-09-08 18:28:11,822 [19] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 18:28:11
+2016-09-08 18:29:38,229 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 18:29:38
+2016-09-08 18:31:04,637 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 18:31:04
+2016-09-08 18:32:31,044 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 18:32:31
+2016-09-08 18:33:57,451 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 18:33:57
+2016-09-08 18:35:23,858 [19] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 18:35:23
+2016-09-08 18:36:50,281 [19] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 18:36:50
+2016-09-08 18:38:16,689 [19] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 18:38:16
+2016-09-08 18:39:43,096 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 18:39:43
+2016-09-08 18:41:09,503 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 18:41:09
+2016-09-08 18:42:35,910 [19] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 18:42:35
+2016-09-08 18:44:02,318 [19] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 18:44:02
+2016-09-08 18:45:28,725 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 18:45:28
+2016-09-08 18:46:55,132 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 18:46:55
+2016-09-08 18:48:21,540 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 18:48:21
+2016-09-08 18:49:47,947 [19] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 18:49:47
+2016-09-08 18:51:14,354 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 18:51:14
+2016-09-08 18:52:40,761 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 18:52:40
+2016-09-08 18:54:07,169 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 18:54:07
+2016-09-08 18:55:33,576 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 18:55:33
+2016-09-08 18:56:59,983 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 18:56:59
+2016-09-08 18:58:26,391 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 18:58:26
+2016-09-08 18:59:52,798 [19] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 18:59:52
+2016-09-08 19:01:19,221 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:01:19
+2016-09-08 19:02:45,613 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 19:02:45
+2016-09-08 19:04:12,020 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 19:04:12
+2016-09-08 19:05:38,427 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 19:05:38
+2016-09-08 19:07:04,834 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 19:07:04
+2016-09-08 19:08:31,242 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 19:08:31
+2016-09-08 19:09:57,649 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 19:09:57
+2016-09-08 19:11:24,056 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:11:24
+2016-09-08 19:12:50,464 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 19:12:50
+2016-09-08 19:14:16,871 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 19:14:16
+2016-09-08 19:15:43,278 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 19:15:43
+2016-09-08 19:17:09,685 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 19:17:09
+2016-09-08 19:18:36,093 [19] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 19:18:36
+2016-09-08 19:20:02,500 [19] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 19:20:02
+2016-09-08 19:21:28,907 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 19:21:28
+2016-09-08 19:22:55,315 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 19:22:55
+2016-09-08 19:24:21,722 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:24:21
+2016-09-08 19:25:48,129 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 19:25:48
+2016-09-08 19:27:14,536 [19] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 19:27:14
+2016-09-08 19:28:40,944 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:28:40
+2016-09-08 19:30:07,351 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 19:30:07
+2016-09-08 19:31:33,758 [19] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 19:31:33
+2016-09-08 19:33:00,181 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 19:33:00
+2016-09-08 19:34:26,589 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 19:34:26
+2016-09-08 19:35:52,996 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 19:35:52
+2016-09-08 19:37:19,403 [19] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 19:37:19
+2016-09-08 19:38:45,810 [19] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 19:38:45
+2016-09-08 19:40:12,218 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:40:12
+2016-09-08 19:41:38,625 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 19:41:38
+2016-09-08 19:43:05,032 [19] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 19:43:05
+2016-09-08 19:44:31,440 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:44:31
+2016-09-08 19:45:57,847 [19] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 19:45:57
+2016-09-08 19:47:24,254 [19] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 19:47:24
+2016-09-08 19:48:50,661 [19] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 19:48:50
+2016-09-08 19:50:17,069 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 19:50:17
+2016-09-08 19:51:43,476 [19] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2016-07-10 19:51:43
+2016-09-08 19:53:09,883 [19] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 19:53:09
+2016-09-08 19:54:36,291 [19] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 19:54:36
+2016-09-08 19:56:02,698 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 19:56:02
+2016-09-08 19:57:29,121 [19] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2016-07-10 19:57:29
+2016-09-08 19:58:55,513 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 19:58:55
+2016-09-08 20:00:21,920 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 20:00:21
+2016-09-08 20:01:48,327 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 20:01:48
+2016-09-08 20:03:14,734 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 20:03:14
+2016-09-08 20:04:41,142 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 20:04:41
+2016-09-08 20:06:07,549 [19] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 20:06:07
+2016-09-08 20:07:33,956 [19] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 20:07:33
+2016-09-08 20:09:00,364 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 20:09:00
+2016-09-08 20:10:26,771 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 20:10:26
+2016-09-08 20:11:53,178 [19] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 20:11:53
+2016-09-08 20:13:19,585 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 20:13:19
+2016-09-08 20:14:45,993 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 20:14:45
+2016-09-08 20:16:12,400 [19] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 20:16:12
+2016-09-08 20:17:38,807 [19] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 20:17:38
+2016-09-08 20:19:05,215 [19] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 20:19:05
+2016-09-08 20:20:31,622 [19] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 20:20:31
+2016-09-08 20:21:58,029 [19] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 20:21:58
+2016-09-08 20:23:24,436 [19] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 20:23:24
+2016-09-08 20:24:50,844 [19] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 20:24:50
+2016-09-08 20:26:17,251 [19] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2016-07-10 20:26:17
+2016-09-08 20:27:43,674 [19] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 20:27:43
+2016-09-08 20:29:10,081 [19] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 20:29:10
+2016-09-08 20:30:36,489 [19] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 20:30:36
+2016-09-08 20:32:02,896 [19] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2016-07-10 20:32:02
+2016-09-08 20:33:29,303 [19] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 20:33:29
+2016-09-08 20:34:55,710 [19] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 20:34:55
+2016-09-08 20:36:22,118 [19] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 20:36:22
+2016-09-08 20:37:10,243 [19] INFO  WSC.ProductIndexTimer.Events - [Thread 12] Cache Removed: 1
+2016-09-08 20:37:10,243 [19] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 12] Application shutdown. Reason: HostingEnvironment
+2016-09-08 20:37:33,456 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2016-09-08 20:37:33,518 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 29ms)
+2016-09-08 20:37:33,534 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-09-08 20:37:33,580 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 26 (took 42ms)
+2016-09-08 20:37:33,627 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-09-08 20:37:33,627 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 11 (took 3ms)
+2016-09-08 20:37:33,627 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-09-08 20:37:33,627 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 12 (took 0ms)
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 0ms)
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-09-08 20:37:33,674 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2016-09-08 20:37:33,986 [7] INFO  WSC.Examine.ProductDataIndexer - [Thread 1] New()
+2016-09-08 20:37:34,189 [7] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Expire at 9/9/2016 3:00:00 AM
+2016-09-08 20:37:34,189 [7] INFO  WSC.ProductIndexTimer.Events - [Thread 1] HttpContext: False
+2016-09-08 20:37:34,189 [7] INFO  WSC.ProductIndexTimer.Events - [Thread 1] Cache: False
+2016-09-08 20:37:34,314 [7] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - Cache Last Updated: 17
+2016-09-08 20:37:34,314 [7] INFO  WSC.ProductIndexTimer.Events - [Thread 1] StartUp - DocumentCount: 855
+2016-09-08 20:37:34,376 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2016-09-08 20:37:34,376 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2016-09-08 20:37:34,641 [7] INFO  Umbraco.Web.UmbracoModule - [Thread 8] Setting OriginalRequestUrl: dev.coastalpet.com:80/umbraco
+2016-09-08 20:37:34,750 [7] INFO  umbraco.content - [Thread 8] Loading content from disk cache...
+2016-09-08 20:37:34,938 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-09-08 20:37:34,938 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 1ms)
+2016-09-08 20:37:36,654 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of umbraco.XsltExtensionAttribute
+2016-09-08 20:37:36,654 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of umbraco.XsltExtensionAttribute, found 14 (took 2ms)
+2016-09-08 20:38:39,037 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 20:38:39
+2016-09-08 20:40:05,382 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2016-07-10 20:40:05
+2016-09-08 20:41:31,789 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2016-07-10 20:41:31
+2016-09-08 20:42:58,197 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 20:42:58
+2016-09-08 20:44:24,604 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 20:44:24
+2016-09-08 20:45:51,011 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 20:45:51
+2016-09-08 20:47:17,419 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2016-07-10 20:47:17
+2016-09-08 20:48:43,826 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2016-07-10 20:48:43
+2016-09-08 20:50:10,233 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2016-07-10 20:50:10
+2016-09-08 20:51:36,640 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 20:51:36
+2016-09-08 20:53:03,048 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 20:53:03
+2016-09-08 20:54:29,455 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 20:54:29
+2016-09-08 20:55:55,862 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 20:55:55
+2016-09-08 20:57:22,270 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 20:57:22
+2016-09-08 20:58:48,677 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 20:58:48
+2016-09-08 21:00:15,084 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 21:00:15
+2016-09-08 21:01:41,491 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 21:01:41
+2016-09-08 21:03:07,899 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 21:03:07
+2016-09-08 21:04:34,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 21:04:34
+2016-09-08 21:06:00,713 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 21:06:00
+2016-09-08 21:07:27,121 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 21:07:27
+2016-09-08 21:08:53,528 [7] INFO  umbraco.BusinessLogic.Log - [Thread 10] Log scrubbed.  Removed all items older than 2016-07-10 21:08:53
+2016-09-08 21:10:19,935 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 21:10:19
+2016-09-08 21:11:46,342 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 21:11:46
+2016-09-08 21:13:12,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 21:13:12
+2016-09-08 21:14:39,157 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 21:14:39
+2016-09-08 21:16:05,564 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 21:16:05
+2016-09-08 21:17:31,972 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 21:17:31
+2016-09-08 21:18:58,379 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 21:18:58
+2016-09-08 21:20:24,786 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 21:20:24
+2016-09-08 21:21:51,194 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 21:21:51
+2016-09-08 21:23:17,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 21:23:17
+2016-09-08 21:24:44,024 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 21:24:44
+2016-09-08 21:26:10,431 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 21:26:10
+2016-09-08 21:27:36,838 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 21:27:36
+2016-09-08 21:29:03,246 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 21:29:03
+2016-09-08 21:30:29,653 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 21:30:29
+2016-09-08 21:31:56,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 21:31:56
+2016-09-08 21:33:22,467 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 21:33:22
+2016-09-08 21:34:48,875 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2016-07-10 21:34:48
+2016-09-08 21:36:15,282 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 21:36:15
+2016-09-08 21:37:41,689 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 21:37:41
+2016-09-08 21:39:08,097 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 21:39:08
+2016-09-08 21:40:34,504 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 21:40:34
+2016-09-08 21:42:00,927 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2016-07-10 21:42:00
+2016-09-08 21:43:27,319 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 21:43:27
+2016-09-08 21:44:53,726 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 21:44:53
+2016-09-08 21:46:20,206 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 21:46:20
+2016-09-08 21:47:46,737 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 21:47:46
+2016-09-08 21:49:13,267 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 21:49:13
+2016-09-08 21:50:39,789 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 21:50:39
+2016-09-08 21:52:06,241 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 21:52:06
+2016-09-08 21:53:32,692 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 21:53:32
+2016-09-08 21:54:59,144 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 21:54:59
+2016-09-08 21:56:25,578 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 21:56:25
+2016-09-08 21:57:52,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 21:57:52
+2016-09-08 21:59:18,425 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 21:59:18
+2016-09-08 22:00:44,847 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 22:00:44
+2016-09-08 22:02:11,261 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 22:02:11
+2016-09-08 22:03:37,674 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 22:03:37
+2016-09-08 22:05:04,088 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 22:05:04
+2016-09-08 22:06:30,499 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 22:06:30
+2016-09-08 22:07:56,909 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 22:07:56
+2016-09-08 22:09:23,319 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 22:09:23
+2016-09-08 22:10:49,728 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 22:10:49
+2016-09-08 22:12:16,137 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 22:12:16
+2016-09-08 22:13:42,545 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 22:13:42
+2016-09-08 22:15:08,954 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 22:15:08
+2016-09-08 22:16:35,362 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 22:16:35
+2016-09-08 22:18:01,770 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 22:18:01
+2016-09-08 22:19:28,194 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 22:19:28
+2016-09-08 22:20:54,603 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 22:20:54
+2016-09-08 22:22:21,011 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 22:22:21
+2016-09-08 22:23:47,418 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 22:23:47
+2016-09-08 22:25:13,826 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 22:25:13
+2016-09-08 22:26:40,234 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 22:26:40
+2016-09-08 22:28:06,642 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 22:28:06
+2016-09-08 22:29:33,050 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 22:29:33
+2016-09-08 22:30:59,458 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 22:30:59
+2016-09-08 22:32:25,865 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 22:32:25
+2016-09-08 22:33:52,273 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 22:33:52
+2016-09-08 22:35:18,681 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 22:35:18
+2016-09-08 22:36:45,089 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 22:36:45
+2016-09-08 22:38:11,497 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 22:38:11
+2016-09-08 22:39:37,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 22:39:37
+2016-09-08 22:41:04,313 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 22:41:04
+2016-09-08 22:42:30,720 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 22:42:30
+2016-09-08 22:43:57,128 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 22:43:57
+2016-09-08 22:45:23,536 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 22:45:23
+2016-09-08 22:46:49,944 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 22:46:49
+2016-09-08 22:48:16,352 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 22:48:16
+2016-09-08 22:49:42,760 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2016-07-10 22:49:42
+2016-09-08 22:51:09,167 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 22:51:09
+2016-09-08 22:52:35,575 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 22:52:35
+2016-09-08 22:54:01,983 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 22:54:01
+2016-09-08 22:55:28,391 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 22:55:28
+2016-09-08 22:56:54,799 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 22:56:54
+2016-09-08 22:58:21,207 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2016-07-10 22:58:21
+2016-09-08 22:59:47,615 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 22:59:47
+2016-09-08 23:01:14,022 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 23:01:14
+2016-09-08 23:02:40,430 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 23:02:40
+2016-09-08 23:04:06,838 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 23:04:06
+2016-09-08 23:05:33,246 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2016-07-10 23:05:33
+2016-09-08 23:06:59,654 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2016-07-10 23:06:59
+2016-09-08 23:08:26,062 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 23:08:26
+2016-09-08 23:09:52,469 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 23:09:52
+2016-09-08 23:11:18,877 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 23:11:18
+2016-09-08 23:12:45,285 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 23:12:45
+2016-09-08 23:14:11,693 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 23:14:11
+2016-09-08 23:15:38,132 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2016-07-10 23:15:38
+2016-09-08 23:17:04,540 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2016-07-10 23:17:04
+2016-09-08 23:18:30,948 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 23:18:30
+2016-09-08 23:19:57,356 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2016-07-10 23:19:57
+2016-09-08 23:21:23,763 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2016-07-10 23:21:23
+2016-09-08 23:22:50,171 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 23:22:50
+2016-09-08 23:24:16,595 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 23:24:16
+2016-09-08 23:25:43,003 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2016-07-10 23:25:43
+2016-09-08 23:27:09,410 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2016-07-10 23:27:09
+2016-09-08 23:28:35,818 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 23:28:35
+2016-09-08 23:30:02,226 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 23:30:02
+2016-09-08 23:31:28,634 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 23:31:28
+2016-09-08 23:32:55,042 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 23:32:55
+2016-09-08 23:34:21,450 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 23:34:21
+2016-09-08 23:35:47,858 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 23:35:47
+2016-09-08 23:37:14,265 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 23:37:14
+2016-09-08 23:38:40,673 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2016-07-10 23:38:40
+2016-09-08 23:40:07,081 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 23:40:07
+2016-09-08 23:41:33,489 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 23:41:33
+2016-09-08 23:42:59,897 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 23:42:59
+2016-09-08 23:44:26,305 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2016-07-10 23:44:26
+2016-09-08 23:45:52,712 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2016-07-10 23:45:52
+2016-09-08 23:47:19,120 [7] INFO  umbraco.BusinessLogic.Log - [Thread 10] Log scrubbed.  Removed all items older than 2016-07-10 23:47:19
+2016-09-08 23:48:45,528 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2016-07-10 23:48:45
+2016-09-08 23:50:11,936 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 23:50:11
+2016-09-08 23:51:38,344 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2016-07-10 23:51:38
+2016-09-08 23:53:04,752 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 23:53:04
+2016-09-08 23:54:31,160 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2016-07-10 23:54:31
+2016-09-08 23:55:57,567 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2016-07-10 23:55:57
+2016-09-08 23:57:23,975 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2016-07-10 23:57:23
+2016-09-08 23:58:50,383 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2016-07-10 23:58:50

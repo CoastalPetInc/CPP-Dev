@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+  <page name="Kits" url="/kits.aspx" control="" access="0,1,2,3,5" />
+  <page name="Place Order" url="/portal/quick-order.aspx" control="QuickOrder" access="0,1,2,3,4">
+    <!--
+	<page name="Embroidery" url="/portal/quick-order/embroidery.aspx" control="Embroidery" access="0,1,2"></page>
+    <page name="Build-a-Collar" url="/portal/quick-order/build-a-collar.aspx" control="BuildACollar" access="0,1,2"></page>
+	-->
+  </page>
+  <page name="Manage Dealers" url="/portal/dealers.aspx" control="Dealers" access="0,1">
+    <page name="Add Dealer" url="/portal/dealer-edit.aspx" control="DealerEdit" access="0,1,2" />
+    <page name="Edit Dealer Child" url="/portal/dealer-child-edit.aspx" control="DealerChildEdit" access="0,1,2" hidden="true" />
+    <page name="Dealer Report" url="/portal/dealer-report.aspx" control="DealerReport" access="0,1,2,5" />
+    <!--<page name="My Territory" url="/portal/my-territory.aspx" control="MyTerritory" access="0,1,2,5" />-->
+  </page>
+  <page name="Selling Specialist" url="/portal/selling-specialist.aspx" control="SellingSpecialist" access="0,1,2,3,5" />
+  <page name="Sales Tools" url="/portal/sales-tools.aspx" control="SalesTools" access="0,1,2,5">
+    <page name="Resources" url="/portal/sales-tools/resources.aspx" control="SalesToolsResources" access="0,1,2,5" />
+    <page name="Product Sample Order Form" url="/portal/sales-tools/samples.aspx" control="Samples" access="0,1,2,5" />
+    <page name="Catalog Order Form" url="/portal/sales-tools/catalogs.aspx" control="Catalogs" access="0,1,2,5" />
+    <page name="Backtag Order Form" url="/portal/sales-tools/backtags.aspx" control="Backtags" access="0,1,2,5" />
+    <page name="Newsletter Archive" url="/portal/sales-tools/newsletter.aspx" control="Newsletter" access="0,1,2,5" />
+    <page name="Build-a-Wall" url="/portal/sales-tools/build-a-wall.aspx" control="BuildAWall" access="0,1,2" />
+  </page>
+  <page name="Downloads" url="/portal/downloads.aspx" control="Downloads" access="0,1,2,3,5,6" />
+  <page name="Downloads" url="/portal/downloads-harley.aspx" control="HarleyDownloads" access="4" />
+</pages>

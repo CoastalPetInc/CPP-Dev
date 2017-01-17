@@ -1,0 +1,2307 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>WSC.Ads.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Ads.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.BlogWidget.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.BlogWidget.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.BodyClass.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.BodyClass.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Breadcrumb.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Breadcrumb.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Event.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Event.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.EventListing.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.EventListing.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.EventWidget.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.EventWidget.xslt</orgName>
+    </file>
+    <file>
+      <guid>ContactUs.ascx</guid>
+      <orgPath>~/usercontrols/WSC</orgPath>
+      <orgName>ContactUs.ascx</orgName>
+    </file>
+    <file>
+      <guid>WSC.HomeFeature.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.HomeFeature.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Job.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Job.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.JobListing.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.JobListing.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Locations.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Locations.xslt</orgName>
+    </file>
+    <file>
+      <guid>MemberLogin.ascx</guid>
+      <orgPath>~/usercontrols/WSC</orgPath>
+      <orgName>MemberLogin.ascx</orgName>
+    </file>
+    <file>
+      <guid>WSC.MemberStatus.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.MemberStatus.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.MetaData.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.MetaData.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Navigation.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Navigation.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.NewsItem.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.NewsItem.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Newslist.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Newslist.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.NewsWidget.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.NewsWidget.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Product.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Product.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.ProductCategory.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.ProductCategory.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Products.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Products.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Search.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Search.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.Sitemap.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.Sitemap.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.SitemapXML.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>WSC.SitemapXML.xslt</orgName>
+    </file>
+    <file>
+      <guid>WSC.301Redirect.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>WSC.301Redirect.dll</orgName>
+    </file>
+    <file>
+      <guid>WSC.SSLSwitcher.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>WSC.SSLSwitcher.dll</orgName>
+    </file>
+    <file>
+      <guid>building.png</guid>
+      <orgPath>/Umbraco/Images/Umbraco</orgPath>
+      <orgName>building.png</orgName>
+    </file>
+    <file>
+      <guid>map.png</guid>
+      <orgPath>/Umbraco/Images/Umbraco</orgPath>
+      <orgName>map.png</orgName>
+    </file>
+    <file>
+      <guid>WSC.DataType.GeoAddress.vb</guid>
+      <orgPath>/App_Code</orgPath>
+      <orgName>WSC.DataType.GeoAddress.vb</orgName>
+    </file>
+    <file>
+      <guid>WSC.Events.vb</guid>
+      <orgPath>/App_Code</orgPath>
+      <orgName>WSC.Events.vb</orgName>
+    </file>
+    <file>
+      <guid>WSC.Helpers.vb</guid>
+      <orgPath>/App_Code</orgPath>
+      <orgName>WSC.Helpers.vb</orgName>
+    </file>
+    <file>
+      <guid>WSC.Library.vb</guid>
+      <orgPath>/App_Code</orgPath>
+      <orgName>WSC.Library.vb</orgName>
+    </file>
+    <file>
+      <guid>brick.png</guid>
+      <orgPath>/Umbraco/Images/Umbraco</orgPath>
+      <orgName>brick.png</orgName>
+    </file>
+    <file>
+      <guid>._email_templates</guid>
+      <orgPath>/inc</orgPath>
+      <orgName>._email_templates</orgName>
+    </file>
+    <file>
+      <guid>._Columns3-1-2.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>._Columns3-1-2.html</orgName>
+    </file>
+    <file>
+      <guid>._Columns3-2-1.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>._Columns3-2-1.html</orgName>
+    </file>
+    <file>
+      <guid>._Columns3.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>._Columns3.html</orgName>
+    </file>
+    <file>
+      <guid>._editor_templates.js</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>._editor_templates.js</orgName>
+    </file>
+    <file>
+      <guid>._ImageLeft.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>._ImageLeft.html</orgName>
+    </file>
+    <file>
+      <guid>._ImageRight.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>._ImageRight.html</orgName>
+    </file>
+    <file>
+      <guid>Columns3-1-2.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>Columns3-1-2.html</orgName>
+    </file>
+    <file>
+      <guid>Columns3-2-1.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>Columns3-2-1.html</orgName>
+    </file>
+    <file>
+      <guid>Columns3.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>Columns3.html</orgName>
+    </file>
+    <file>
+      <guid>editor_templates.js</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>editor_templates.js</orgName>
+    </file>
+    <file>
+      <guid>ImageLeft.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>ImageLeft.html</orgName>
+    </file>
+    <file>
+      <guid>ImageRight.html</guid>
+      <orgPath>/inc/editor_templates</orgPath>
+      <orgName>ImageRight.html</orgName>
+    </file>
+    <file>
+      <guid>._ContactUs.html</guid>
+      <orgPath>/inc/email_templates</orgPath>
+      <orgName>._ContactUs.html</orgName>
+    </file>
+    <file>
+      <guid>ContactUs.html</guid>
+      <orgPath>/inc/email_templates</orgPath>
+      <orgName>ContactUs.html</orgName>
+    </file>
+    <file>
+      <guid>home.js</guid>
+      <orgPath>/inc/js</orgPath>
+      <orgName>home.js</orgName>
+    </file>
+    <file>
+      <guid>locations.js</guid>
+      <orgPath>/inc/js</orgPath>
+      <orgName>locations.js</orgName>
+    </file>
+    <file>
+      <guid>base.merge.css</guid>
+      <orgPath>/inc/style</orgPath>
+      <orgName>base.merge.css</orgName>
+    </file>
+    <file>
+      <guid>home.merge.css</guid>
+      <orgPath>/inc/style</orgPath>
+      <orgName>home.merge.css</orgName>
+    </file>
+    <file>
+      <guid>ImageResizer.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>ImageResizer.dll</orgName>
+    </file>
+    <file>
+      <guid>ImageResizer.Mvc.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>ImageResizer.Mvc.dll</orgName>
+    </file>
+    <file>
+      <guid>ImageResizer.Plugins.SimpleCache.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>ImageResizer.Plugins.SimpleCache.dll</orgName>
+    </file>
+    <file>
+      <guid>301redirect.config</guid>
+      <orgPath>/Config</orgPath>
+      <orgName>301redirect.config</orgName>
+    </file>
+    <file>
+      <guid>SSL.config</guid>
+      <orgPath>/Config</orgPath>
+      <orgName>SSL.config</orgName>
+    </file>
+    <file>
+      <guid>house.png</guid>
+      <orgPath>/Umbraco/Images/Umbraco</orgPath>
+      <orgName>house.png</orgName>
+    </file>
+    <file>
+      <guid>magnifier.png</guid>
+      <orgPath>/Umbraco/Images/Umbraco</orgPath>
+      <orgName>magnifier.png</orgName>
+    </file>
+    <file>
+      <guid>page_go.png</guid>
+      <orgPath>/Umbraco/Images/Umbraco</orgPath>
+      <orgName>page_go.png</orgName>
+    </file>
+    <file>
+      <guid>WSC.Pagination.xslt</guid>
+      <orgPath>/Xslt</orgPath>
+      <orgName>WSC.Pagination.xslt</orgName>
+    </file>
+    <file>
+      <guid>14448c00-7d77-46e0-bc79-c969d258e8c3_ContactUs.ascx</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>ContactUs.ascx</orgName>
+    </file>
+    <file>
+      <guid>ContactUs.ascx.vb</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>ContactUs.ascx.vb</orgName>
+    </file>
+    <file>
+      <guid>Installer.ascx</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>Installer.ascx</orgName>
+    </file>
+    <file>
+      <guid>Installer.ascx.vb</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>Installer.ascx.vb</orgName>
+    </file>
+    <file>
+      <guid>04a34617-22ae-4aed-9b80-02b5da74b10c_MemberLogin.ascx</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>MemberLogin.ascx</orgName>
+    </file>
+    <file>
+      <guid>MemberLogin.ascx.vb</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>MemberLogin.ascx.vb</orgName>
+    </file>
+    <file>
+      <guid>SitemapImport.ascx</guid>
+      <orgPath>/UserControls/WSC/dashboard</orgPath>
+      <orgName>SitemapImport.ascx</orgName>
+    </file>
+    <file>
+      <guid>SitemapImport.ascx.vb</guid>
+      <orgPath>/UserControls/WSC/dashboard</orgPath>
+      <orgName>SitemapImport.ascx.vb</orgName>
+    </file>
+    <file>
+      <guid>90d589bd-6947-4f7b-9af6-0f0ef7060b70_Installer.ascx</guid>
+      <orgPath>/UserControls/WSC</orgPath>
+      <orgName>Installer.ascx</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>WSC.Template</name>
+      <version>1.0</version>
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>http://www.whitespace-creative.com</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Sean Mooney</name>
+      <website>http://www.whitespace-creative.com</website>
+    </author>
+    <readme><![CDATA[===================================
+Be sure to install the uComponents package first
+===================================
+move "Member Type" and "Member Group" tree nodes to the "Users" section]]></readme>
+  </info>
+  <Documents>
+    <DocumentSet importMode="root">
+      <HomePage id="1075" parentID="-1" level="1" creatorID="0" sortOrder="0" createDate="2015-01-23T09:20:43" updateDate="2015-02-06T15:40:30" nodeName="Home" urlName="home" path="-1,1075" isDoc="" nodeType="1070" creatorName="admin" writerName="admin" writerID="0" template="1054" nodeTypeAlias="HomePage">
+        <siteName>New Site</siteName>
+        <features>
+          <items>
+            <item id="1" sortOrder="1">
+              <name nodeName="Name" nodeType="-88">Hello World</name>
+              <image nodeName="Image" nodeType="1035">1123</image>
+              <link nodeName="Link" nodeType="-88">http://www.google.com</link>
+            </item>
+            <item id="2" sortOrder="2">
+              <name nodeName="Name" nodeType="-88">Hello World 2</name>
+              <image nodeName="Image" nodeType="1035">1123</image>
+              <link nodeName="Link" nodeType="-88" />
+            </item>
+          </items>
+        </features>
+        <TextPage id="1076" parentID="1075" level="2" creatorID="0" sortOrder="0" createDate="2015-01-23T09:20:43" updateDate="2015-01-23T09:20:43" nodeName="404 File not found" urlName="404-file-not-found" path="-1,1075,1076" isDoc="" nodeType="1068" creatorName="admin" writerName="admin" writerID="0" template="1055" nodeTypeAlias="TextPage">
+          <metaPageTitle>404 File not found</metaPageTitle>
+          <umbracoNaviHide>1</umbracoNaviHide>
+          <bodyText><![CDATA[
+		<h1>404 File Not Found</h1>
+		
+		<p>The page you requested cannot be found. The page you are looking
+		for might have been removed, had its name changed, or is
+		temporarily unavailable.</p>
+		
+		<p>Please try the following:</p>
+		
+		<ul>
+		<li>If you typed the page address in the Address bar, make sure
+		that it is spelled correctly.</li>
+		
+		<li>Click the Back button to try another link.</li>
+		</ul>
+		]]></bodyText>
+        </TextPage>
+        <Search id="1144" parentID="1075" level="2" creatorID="0" sortOrder="1" createDate="2015-02-26T09:53:22" updateDate="2015-02-26T09:53:37" nodeName="Search" urlName="search" path="-1,1075,1144" isDoc="" nodeType="1069" creatorName="admin" writerName="admin" writerID="0" template="1056" nodeTypeAlias="Search" />
+        <Login id="1141" parentID="1075" level="2" creatorID="0" sortOrder="2" createDate="2015-02-26T09:09:48" updateDate="2015-02-26T09:53:50" nodeName="Login" urlName="login" path="-1,1075,1141" isDoc="" nodeType="1140" creatorName="admin" writerName="admin" writerID="0" template="1139" nodeTypeAlias="Login" />
+        <JobListing id="1085" parentID="1075" level="2" creatorID="0" sortOrder="3" createDate="2015-01-23T09:28:08" updateDate="2015-02-26T09:53:51" nodeName="Jobs" urlName="jobs" path="-1,1075,1085" isDoc="" nodeType="1065" creatorName="admin" writerName="admin" writerID="0" template="1116" nodeTypeAlias="JobListing">
+          <metaPageTitle>Jobs</metaPageTitle>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <applicationEmail>sean@whitespace-creative.com</applicationEmail>
+          <redirect>1075</redirect>
+          <Job id="1088" parentID="1085" level="3" creatorID="0" sortOrder="0" createDate="2015-01-23T13:21:23" updateDate="2015-01-26T15:47:23" nodeName="My First Job" urlName="my-first-job" path="-1,1075,1085,1088" isDoc="" nodeType="1064" creatorName="admin" writerName="admin" writerID="0" template="1117" nodeTypeAlias="Job">
+            <metaPageTitle>My First Job</metaPageTitle>
+            <bodyText><![CDATA[<p>sadf asdf sadf afd asdf</p>]]></bodyText>
+            <location>Location</location>
+            <type>Type</type>
+            <postDate>2015-01-26T00:00:00</postDate>
+            <summary><![CDATA[This is my first job]]></summary>
+          </Job>
+        </JobListing>
+        <EventListing id="1095" parentID="1075" level="2" creatorID="0" sortOrder="4" createDate="2015-01-23T13:29:17" updateDate="2015-02-26T09:53:51" nodeName="Events" urlName="events" path="-1,1075,1095" isDoc="" nodeType="1091" creatorName="admin" writerName="admin" writerID="0" template="1090" nodeTypeAlias="EventListing">
+          <metaPageTitle>Events</metaPageTitle>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <bodyText><![CDATA[<p>sdfaf sa asdf sadf</p>]]></bodyText>
+          <Event id="1096" parentID="1095" level="3" creatorID="0" sortOrder="0" createDate="2015-01-23T13:29:25" updateDate="2015-02-06T16:14:56" nodeName="My First Event" urlName="my-first-event" path="-1,1075,1095,1096" isDoc="" nodeType="1094" creatorName="admin" writerName="admin" writerID="0" template="1092" nodeTypeAlias="Event">
+            <metaPageTitle>My First Event</metaPageTitle>
+            <startDate>2015-03-01T08:00:00</startDate>
+            <endDate>2015-03-01T08:00:00</endDate>
+            <summary><![CDATA[asdfasfd asf sfasf sa ]]></summary>
+            <bodyText><![CDATA[<p>sdgf sdfg sdgsdfg sdfg sdf g</p>]]></bodyText>
+          </Event>
+        </EventListing>
+        <NewsListing id="1097" parentID="1075" level="2" creatorID="0" sortOrder="5" createDate="2015-01-23T13:30:46" updateDate="2015-02-26T09:53:51" nodeName="News" urlName="news" path="-1,1075,1097" isDoc="" nodeType="1067" creatorName="admin" writerName="admin" writerID="0" template="1057" nodeTypeAlias="NewsListing">
+          <metaPageTitle>News</metaPageTitle>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <bodyText><![CDATA[<p>News</p>]]></bodyText>
+          <NewsItem id="1126" parentID="1097" level="3" creatorID="0" sortOrder="1" createDate="2015-02-06T16:07:28" updateDate="2015-02-06T16:08:01" nodeName="Test" urlName="test" path="-1,1075,1097,1126" isDoc="" nodeType="1066" creatorName="admin" writerName="admin" writerID="0" template="1060" nodeTypeAlias="NewsItem">
+            <metaPageTitle>Test</metaPageTitle>
+            <startDate>2015-02-01T00:00:00</startDate>
+            <endDate>2015-05-14T00:00:00</endDate>
+            <summary><![CDATA[summary]]></summary>
+            <bodyText><![CDATA[<p>Suspendisse vestibulum dignissim quam. Integer vel augue. Phasellus nulla purus, interdum ac, venenatis non, varius rutrum, leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis a eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Fusce magna mi, porttitor quis, convallis eget, sodales ac, urna. Phasellus luctus venenatis magna. Vivamus eget lacus. Nunc tincidunt convallis tortor. Duis eros mi, dictum vel, fringilla sit amet, fermentum id, sem. Phasellus nunc enim, faucibus ut, laoreet in, consequat id, metus. Vivamus dignissim. Cras lobortis tempor velit. Phasellus nec diam ac nisl lacinia tristique. Nullam nec metus id mi dictum dignissim. Nullam quis wisi non sem lobortis condimentum. Phasellus pulvinar, nulla non aliquam eleifend, tortor wisi scelerisque felis, in sollicitudin arcu ante lacinia leo.</p>]]></bodyText>
+          </NewsItem>
+        </NewsListing>
+        <Locations id="1103" parentID="1075" level="2" creatorID="0" sortOrder="6" createDate="2015-01-23T14:18:45" updateDate="2015-02-26T09:53:51" nodeName="Locations" urlName="locations" path="-1,1075,1103" isDoc="" nodeType="1102" creatorName="admin" writerName="admin" writerID="0" template="1101" nodeTypeAlias="Locations">
+          <metaPageTitle>Locations</metaPageTitle>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <Location id="1106" parentID="1103" level="3" creatorID="0" sortOrder="0" createDate="2015-01-23T14:32:00" updateDate="2015-01-26T16:55:14" nodeName="HQ" urlName="hq" path="-1,1075,1103,1106" isDoc="" nodeType="1100" creatorName="admin" writerName="admin" writerID="0" template="1099" nodeTypeAlias="Location">
+            <address><![CDATA[{"Address":"24 N High St\r\nAkron, OH 44308","Lat":41.085562,"Lon":-81.5156329}]]></address>
+          </Location>
+        </Locations>
+        <Products id="1113" parentID="1075" level="2" creatorID="0" sortOrder="7" createDate="2015-01-23T16:16:11" updateDate="2015-02-26T09:53:51" nodeName="Products" urlName="products" path="-1,1075,1113" isDoc="" nodeType="1108" creatorName="admin" writerName="admin" writerID="0" template="1121" nodeTypeAlias="Products">
+          <metaPageTitle>Products</metaPageTitle>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <bodyText><![CDATA[<h1>Our Products</h1>
+<p>Cras dictum. Maecenas ut turpis. In vitae erat ac orci dignissim eleifend. Nunc quis justo. Sed vel ipsum in purus tincidunt pharetra. Sed pulvinar, felis id consectetuer malesuada, enim nisl mattis elit, a facilisis tortor nibh quis leo.</p>]]></bodyText>
+          <ProductCategory id="1114" parentID="1113" level="3" creatorID="0" sortOrder="0" createDate="2015-01-23T16:17:03" updateDate="2015-02-05T08:27:59" nodeName="My First Category" urlName="my-first-category" path="-1,1075,1113,1114" isDoc="" nodeType="1110" creatorName="admin" writerName="admin" writerID="0" template="1109" nodeTypeAlias="ProductCategory">
+            <metaPageTitle>My First Category</metaPageTitle>
+            <image>1120</image>
+            <bodyText><![CDATA[<h1>Category One</h1>
+<p>Ut nulla. Vivamus bibendum, nulla ut congue fringilla, lorem ipsum ultricies risus, ut rutrum velit tortor vel purus. In hac habitasse platea dictumst. Duis fermentum, metus sed congue gravida.</p>]]></bodyText>
+            <Product id="1115" parentID="1114" level="4" creatorID="0" sortOrder="0" createDate="2015-01-23T16:20:16" updateDate="2015-02-05T08:27:59" nodeName="My First Product" urlName="my-first-product" path="-1,1075,1113,1114,1115" isDoc="" nodeType="1112" creatorName="admin" writerName="admin" writerID="0" template="1111" nodeTypeAlias="Product">
+              <metaPageTitle>My First Product</metaPageTitle>
+              <bodyText><![CDATA[<h1>Prdouct Name Here</h1>
+<p>Ut nulla. Vivamus bibendum, nulla ut congue fringilla, lorem ipsum ultricies risus, ut rutrum velit tortor vel purus. In hac habitasse platea dictumst. Duis fermentum, metus sed congue gravida, arcu dui ornare urna, ut imperdiet enim odio dignissim ipsum. Nulla facilisi. Cras magna ante, bibendum sit amet, porta vitae, laoreet ut, justo. Nam tortor sapien, pulvinar nec, malesuada in, ultrices in, tortor. Cras ultricies placerat eros. Quisque odio eros, feugiat non, iaculis nec, lobortis sed, arcu. Pellentesque sit amet sem et purus pretium consectetuer.</p>
+<p>Ut nulla. Vivamus bibendum, nulla ut congue fringilla, lorem ipsum ultricies risus, ut rutrum velit tortor vel purus. In hac habitasse platea dictumst. Duis fermentum, metus sed congue gravida, arcu dui ornare urna, ut imperdiet enim odio dignissim ipsum. Nulla facilisi. Cras magna ante, bibendum sit amet, porta vitae, laoreet ut, justo. Nam tortor sapien, pulvinar nec, malesuada in, ultrices in, tortor. Cras ultricies placerat eros. Quisque odio eros, feugiat non, iaculis nec, lobortis sed, arcu. Pellentesque sit amet sem et purus pretium consectetuer.</p>]]></bodyText>
+              <images>1120</images>
+              <sku>1234</sku>
+            </Product>
+          </ProductCategory>
+        </Products>
+        <Blog id="1133" parentID="1075" level="2" creatorID="0" sortOrder="8" createDate="2015-02-20T15:36:01" updateDate="2015-02-26T09:53:51" nodeName="Blog" urlName="blog" path="-1,1075,1133" isDoc="" nodeType="1082" creatorName="admin" writerName="admin" writerID="0" template="1078" nodeTypeAlias="Blog">
+          <blogName>Blog</blogName>
+          <blogroll>
+            <links />
+          </blogroll>
+          <pingServices>
+            <links />
+          </pingServices>
+          <DateFolder id="1135" parentID="1133" level="3" creatorID="0" sortOrder="1" createDate="2015-02-20T15:36:33" updateDate="2015-02-20T15:36:33" nodeName="2015" urlName="2015" path="-1,1075,1133,1135" isDoc="" nodeType="1084" creatorName="admin" writerName="admin" writerID="0" template="1078" nodeTypeAlias="DateFolder">
+            <DateFolder id="1136" parentID="1135" level="4" creatorID="0" sortOrder="0" createDate="2015-02-20T15:36:33" updateDate="2015-02-20T15:36:34" nodeName="2" urlName="2" path="-1,1075,1133,1135,1136" isDoc="" nodeType="1084" creatorName="admin" writerName="admin" writerID="0" template="1078" nodeTypeAlias="DateFolder">
+              <DateFolder id="1137" parentID="1136" level="5" creatorID="0" sortOrder="0" createDate="2015-02-20T15:36:34" updateDate="2015-02-20T15:36:34" nodeName="20" urlName="20" path="-1,1075,1133,1135,1136,1137" isDoc="" nodeType="1084" creatorName="admin" writerName="admin" writerID="0" template="1078" nodeTypeAlias="DateFolder">
+                <BlogPost id="1134" parentID="1137" level="6" creatorID="0" sortOrder="1" createDate="2015-02-20T15:36:19" updateDate="2015-02-20T15:36:34" nodeName="My First Post" urlName="my-first-post" path="-1,1075,1133,1135,1136,1137,1134" isDoc="" nodeType="1083" creatorName="admin" writerName="admin" writerID="0" template="1079" nodeTypeAlias="BlogPost">
+                  <bodyText><![CDATA[<p>dfgs dfgsdgf sdgf sdfg</p>]]></bodyText>
+                  <closeComments>0</closeComments>
+                  <author>Test</author>
+                  <PostDate>2015-02-20T00:00:00</PostDate>
+                </BlogPost>
+              </DateFolder>
+            </DateFolder>
+          </DateFolder>
+        </Blog>
+      </HomePage>
+    </DocumentSet>
+  </Documents>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>Ad</Name>
+        <Alias>Ad</Alias>
+        <Icon>brick.png</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Alt Text</Name>
+          <Alias>altText</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Image</Name>
+          <Alias>image</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Link</Name>
+          <Alias>link</Alias>
+          <Type>22c6f52c-5d41-45b8-845e-c16354cfdd7b</Type>
+          <Definition>5cd1e327-60a3-49d2-a90f-95690adc44d9</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>41</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Ads</Name>
+        <Alias>Ads</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>True</AllowAtRoot>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>Ad</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Meta Base</Name>
+        <Alias>MetaBase</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Page Title</Name>
+          <Alias>metaPageTitle</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta Data</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose a title that communicates the content of the page. (60 characters or less)]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Summarize accurately the page’s content. (160 characters or less)]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Seperate keywords with commas]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>12</Id>
+          <Caption>Meta Data</Caption>
+          <SortOrder>10</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Base Page</Name>
+        <Alias>BasePage</Alias>
+        <Icon>doc.gif</Icon>
+        <Thumbnail>developer.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>MetaBase</Master>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Navigation</Name>
+          <Alias>pageNavigation</Alias>
+          <Type>b4471851-82b6-4c75-afa4-39fa9c6a75e9</Type>
+          <Definition>52f2a8e5-c80e-46e1-982e-f4d7c549302d</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Navigation Name</Name>
+          <Alias>pageNavigationName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The name that will appear in the navigation list]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hidden page</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Hidden from Navi and Sitemap]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Event</Name>
+        <Alias>Event</Alias>
+        <Icon>.sprTreeDoc2</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>An event</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>MetaBase</Master>
+        <AllowedTemplates>
+          <Template>Event</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Event</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Start Date</Name>
+          <Alias>startDate</Alias>
+          <Type>b6fb1622-afa5-4bbf-a3cc-d9672a442222</Type>
+          <Definition>e4d66c0f-b935-4200-81f0-025f7256b89a</Definition>
+          <Tab>Information</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>End Date</Name>
+          <Alias>endDate</Alias>
+          <Type>b6fb1622-afa5-4bbf-a3cc-d9672a442222</Type>
+          <Definition>e4d66c0f-b935-4200-81f0-025f7256b89a</Definition>
+          <Tab>Information</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Summary</Name>
+          <Alias>summary</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Information</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[A brief summary of the event to show on the list page]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Body</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The complete body of the news article]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>28</Id>
+          <Caption>Information</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>29</Id>
+          <Caption>Content</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Event Listing</Name>
+        <Alias>EventListing</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>BasePage</Master>
+        <AllowedTemplates>
+          <Template>EventListing</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>EventListing</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>Event</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>37</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>External Link</Name>
+        <Alias>ExternalLink</Alias>
+        <Icon>.sprTreeDoc5</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>URL</Name>
+          <Alias>URL</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Navigation</Name>
+          <Alias>pageNavigation</Alias>
+          <Type>b4471851-82b6-4c75-afa4-39fa9c6a75e9</Type>
+          <Definition>52f2a8e5-c80e-46e1-982e-f4d7c549302d</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Home Page</Name>
+        <Alias>HomePage</Alias>
+        <Icon>house.png</Icon>
+        <Thumbnail>developer.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>True</AllowAtRoot>
+        <AllowedTemplates>
+          <Template>HomePage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>HomePage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>ExternalLink</DocumentType>
+        <DocumentType>JobListing</DocumentType>
+        <DocumentType>NewsListing</DocumentType>
+        <DocumentType>TextPage</DocumentType>
+        <DocumentType>Search</DocumentType>
+        <DocumentType>Blog</DocumentType>
+        <DocumentType>EventListing</DocumentType>
+        <DocumentType>Locations</DocumentType>
+        <DocumentType>Products</DocumentType>
+        <DocumentType>Login</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Site Name</Name>
+          <Alias>siteName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Site</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Upto 255 characters]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Seperate keywords with commas]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Features</Name>
+          <Alias>features</Alias>
+          <Type>82cc7433-acb3-4a7a-8ab3-a02ec6dd181e</Type>
+          <Definition>0b0c7ce1-7afd-46c8-890d-aee2ba5cc4d2</Definition>
+          <Tab>Features</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>16</Id>
+          <Caption>Content</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>17</Id>
+          <Caption>Site</Caption>
+          <SortOrder>3</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>18</Id>
+          <Caption>Meta Data</Caption>
+          <SortOrder>4</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>40</Id>
+          <Caption>Features</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Job</Name>
+        <Alias>Job</Alias>
+        <Icon>.sprTreeDoc</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>MetaBase</Master>
+        <AllowedTemplates>
+          <Template>Job</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Job</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Type</Name>
+          <Alias>type</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Info</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Post Date</Name>
+          <Alias>postDate</Alias>
+          <Type>23e93522-3200-44e2-9f29-e61a6fcbb79a</Type>
+          <Definition>5046194e-4237-453c-a547-15db3a07c4e1</Definition>
+          <Tab>Info</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Location</Name>
+          <Alias>location</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Info</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Summary</Name>
+          <Alias>summary</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Info</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>25</Id>
+          <Caption>Content</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>26</Id>
+          <Caption>Info</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Job Listing</Name>
+        <Alias>JobListing</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>BasePage</Master>
+        <AllowedTemplates>
+          <Template>JobListing</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>JobListing</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>Job</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Application Email</Name>
+          <Alias>applicationEmail</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Application Thank You Page</Name>
+          <Alias>redirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>27</Id>
+          <Caption>Data</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>36</Id>
+          <Caption>Content</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Location</Name>
+        <Alias>Location</Alias>
+        <Icon>building.png</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <AllowedTemplates>
+          <Template>Location</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Location</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Address</Name>
+          <Alias>address</Alias>
+          <Type>f9706b79-8af8-47d1-942d-2576920e491d</Type>
+          <Definition>88813928-c7b2-4d76-a04c-cada2c22ed45</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This needs to be a physical address no P.O. Boxes]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Phone</Name>
+          <Alias>phone</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hours</Name>
+          <Alias>hours</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>30</Id>
+          <Caption>Data</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Locations</Name>
+        <Alias>Locations</Alias>
+        <Icon>map.png</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>BasePage</Master>
+        <AllowedTemplates>
+          <Template>Locations</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Locations</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>Location</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>39</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Login</Name>
+        <Alias>Login</Alias>
+        <Icon>.sprTreeUserGroup</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <AllowedTemplates>
+          <Template>Login</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Login</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>42</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>News Item</Name>
+        <Alias>NewsItem</Alias>
+        <Icon>.sprTreeDoc2</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>A news item</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>MetaBase</Master>
+        <AllowedTemplates>
+          <Template>NewsItem</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>NewsItem</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Start Date</Name>
+          <Alias>startDate</Alias>
+          <Type>23e93522-3200-44e2-9f29-e61a6fcbb79a</Type>
+          <Definition>5046194e-4237-453c-a547-15db3a07c4e1</Definition>
+          <Tab>Information</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>End Date</Name>
+          <Alias>endDate</Alias>
+          <Type>23e93522-3200-44e2-9f29-e61a6fcbb79a</Type>
+          <Definition>5046194e-4237-453c-a547-15db3a07c4e1</Definition>
+          <Tab>Information</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Summary</Name>
+          <Alias>summary</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Information</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[A brief summary of the news item to show on the list page]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Body</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The complete body of the news article]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>13</Id>
+          <Caption>Information</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>14</Id>
+          <Caption>Content</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>News Listing</Name>
+        <Alias>NewsListing</Alias>
+        <Icon>.sprTreeFolder</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>BasePage</Master>
+        <AllowedTemplates>
+          <Template>NewsListing</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>NewsListing</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>NewsItem</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>38</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Product</Name>
+        <Alias>Product</Alias>
+        <Icon>brick.png</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>MetaBase</Master>
+        <AllowedTemplates>
+          <Template>Product</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Product</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sku</Name>
+          <Alias>sku</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Images</Name>
+          <Alias>images</Alias>
+          <Type>ead69342-f06d-4253-83ac-28000225583b</Type>
+          <Definition>93929b9a-93a2-4e2a-b239-d99334440a59</Definition>
+          <Tab>Data</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose the folder of images for this product, the first one will be used for a thumbnail]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>34</Id>
+          <Caption>Content</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>35</Id>
+          <Caption>Data</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Product Category</Name>
+        <Alias>ProductCategory</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>MetaBase</Master>
+        <AllowedTemplates>
+          <Template>ProductCategory</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>ProductCategory</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>Product</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Image</Name>
+          <Alias>image</Alias>
+          <Type>ead69342-f06d-4253-83ac-28000225583b</Type>
+          <Definition>93929b9a-93a2-4e2a-b239-d99334440a59</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>31</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Products</Name>
+        <Alias>Products</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>BasePage</Master>
+        <AllowedTemplates>
+          <Template>Products</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Products</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>ProductCategory</DocumentType>
+        <DocumentType>Product</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>32</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Search</Name>
+        <Alias>Search</Alias>
+        <Icon>magnifier.png</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <AllowedTemplates>
+          <Template>Search</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Search</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Text Page</Name>
+        <Alias>TextPage</Alias>
+        <Icon>.sprTreeDoc</Icon>
+        <Thumbnail>developer.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <Master>BasePage</Master>
+        <AllowedTemplates>
+          <Template>Interior</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Interior</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>TextPage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>15</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>404</Name>
+      <Alias>404</Alias>
+      <Master>ContentMaster</Master>
+      <Design><![CDATA[<%@ Master Language="VB" MasterPageFile="/masterpages/ContentMaster.master" AutoEventWireup="true" %>
+<script runat="server">
+	Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs)
+    	Response.StatusCode = 404
+    End Sub
+</script>
+<asp:content ContentPlaceHolderId="Body" runat="server">
+  <umbraco:Item runat="server" field="bodyText"/>
+</asp:content>
+]]></Design>
+    </Template>
+    <Template>
+      <Name>Content Master</Name>
+      <Alias>ContentMaster</Alias>
+      <Design><![CDATA[<html>
+<head runat="server">
+	<umbraco:Macro Alias="WSC.MetaData" runat="server" />
+	<asp:ContentPlaceHolder id="Meta" runat="server" />
+	<asp:ContentPlaceHolder id="Head" runat="server" />
+</head>
+
+<body class="<umbraco:Macro Alias='WSC.BodyClass' runat='server' />">
+	<umbraco:Macro loginNodeID="1141" Alias="WSC.MemberStatus" runat="server" />
+	<asp:ContentPlaceHolder id="Body" runat="server" />
+	<umbraco:Item field="pageName" runat="server" xslt="Exslt.ExsltDatesAndTimes:year()" />
+</body>
+</html>]]></Design>
+    </Template>
+    <Template>
+      <Name>Event</Name>
+      <Alias>Event</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Macro dateFormat="MM.dd.yyyy h:mm tt" Alias="WSC.Event" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Event Listing</Name>
+      <Alias>EventListing</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Item field="bodyText" runat="server" />
+	<umbraco:Macro dateFormat="MM.dd.yyyy h:mm tt" Alias="WSC.EventListing" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Home Page</Name>
+      <Alias>HomePage</Alias>
+      <Master>ContentMaster</Master>
+      <Design><![CDATA[<%@ Master Language="VB" MasterPageFile="/masterpages/ContentMaster.master" %>
+<asp:Content ContentPlaceHolderId="Meta" runat="server">
+  <meta name="Author" content="WhiteSpace Creative, http://www.whitespace-creative.com" />
+  <meta name="Designer" content="WhiteSpace Creative, http://www.whitespace-creative.com" />
+</asp:Content>
+	
+<asp:Content ContentPlaceHolderId="Head" runat="server">
+  	<link href="inc/style/home.css" rel="stylesheet" type="text/css" />
+	<script src="inc/js/home.js"></script>
+</asp:Content>
+	
+<asp:Content ContentPlaceHolderId="Body" runat="server">
+	<umbraco:Macro imageWidth="100" imageHeight="214" Alias="WSC.HomeFeature" runat="server" />
+	<umbraco:Macro title="News" myClass="news" maxNodes="3" source="1097" dateFormat="MM.dd.yyyy" Alias="WSC.NewsWidget" runat="server" />
+	<umbraco:Macro title="Events" myClass="events" maxNodes="3" source="1095" dateFormat="MM.dd.yyyy" Alias="WSC.EventWidget" runat="server" />
+	<umbraco:Macro maxNodes="3" random="1" imageWidth="100" imageHeight="100" Alias="WSC.Ads" runat="server" />
+	<umbraco:Macro title="Blog" myClass="blog" dateFormat="MM.dd.yyyy" summaryCount="150" maxNodes="3" source="1075" Alias="WSC.BlogWidget" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Interior</Name>
+      <Alias>Interior</Alias>
+      <Master>ContentMaster</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/ContentMaster.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="Body" runat="server">
+  <form runat="server">
+	<asp:ContentPlaceHolder Id="Body" runat="server">
+	  <umbraco:Item field="bodyText" runat="server"/>
+  	</asp:ContentPlaceHolder>
+  </form>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Job</Name>
+      <Alias>Job</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="Body" runat="server">
+	<umbraco:Macro Alias="WSC.Job" runat="server" />
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Job Listing</Name>
+      <Alias>JobListing</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="Body" runat="server">
+	<umbraco:Item field="bodyText" runat="server" />
+	<umbraco:Macro Alias="WSC.JobListing" runat="server" />
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Location</Name>
+      <Alias>Location</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Locations</Name>
+      <Alias>Locations</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Item field="bodyText" runat="server" />
+	<umbraco:Macro Alias="WSC.Locations" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Login</Name>
+      <Alias>Login</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Macro Alias="WSC.MemberLogin" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>News Item</Name>
+      <Alias>NewsItem</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="Body" runat="server">
+  <umbraco:Macro dateFormat="MM.dd.yyyy" Alias="WSC.NewsItem" runat="server" />
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>News Listing</Name>
+      <Alias>NewsListing</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="VB" MasterPageFile="/masterpages/ContentMaster.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="Body" runat="server">
+	<umbraco:Item field="bodyText" runat="server" />
+	<umbraco:Macro recordsPerPage="10" showArchiveLink="1" tag="" showTags="0" dateFormat="MM.dd.yyyy" Alias="WSC.Newslist" runat="server" />
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Product</Name>
+      <Alias>Product</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Macro Alias="WSC.Product" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Product Category</Name>
+      <Alias>ProductCategory</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Macro Alias="WSC.ProductCategory" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Products</Name>
+      <Alias>Products</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/Interior.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="Body" runat="server">
+	<umbraco:Macro Alias="WSC.Products" runat="server" />
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Search</Name>
+      <Alias>Search</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/Interior.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="Body" runat="server">
+	<umbraco:Macro source="1075" searchFields="bodyText, metaPageTitle, nodeName" previewFields="bodyText" searchBoxLocation="NONE" previewType="BEGINNING" resultsPerPage="10" previewChars="" showPageRange="0" showOrdinals="0" showScores="0" showStats="0" Alias="WSC.Search" runat="server" />
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Sitemap</Name>
+      <Alias>Sitemap</Alias>
+      <Master>Interior</Master>
+      <Design><![CDATA[<%@ Master Language="VB" MasterPageFile="/masterpages/Interior.master" AutoEventWireup="true" %>
+<asp:content ContentPlaceHolderId="Body" runat="server">
+	<umbraco:Macro Alias="WSC.Sitemap" runat="server" />
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Sitemap XML</Name>
+      <Alias>SitemapXML</Alias>
+      <Design><![CDATA[<%@ Master Language="VB" %>
+<umbraco:Macro ignoreAlias="" Alias="WSC.SitemapXML" runat="server"></umbraco:Macro>]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets>
+    <Stylesheet>
+      <Name>editor</Name>
+      <FileName>
+      </FileName>
+      <Content><![CDATA[
+	  	.col,
+.image-left,
+.image-right { border: dashed 2px #9ccbf2; min-height: 100px; position:relative; z-index: 1;}
+
+.cols:before,
+.image-left:before,
+.image-right:before { position: absolute; z-index: 3; background: #9ccbf2; padding: 0 5px; top:0; left:0; font-size: 10px; }
+
+.cols2:hover:before { content: 'Two Column'; }
+.image-left:hover:before { content: 'Image Left'; }
+.image-right:hover:before { content: 'Image Right'; }
+
+]]></Content>
+      <Properties>
+        <Property>
+          <Name>Heading 1</Name>
+          <Alias>h1</Alias>
+          <Value>
+          </Value>
+        </Property>
+        <Property>
+          <Name>Heading 2</Name>
+          <Alias>h2</Alias>
+          <Value>
+          </Value>
+        </Property>
+        <Property>
+          <Name>Heading 3</Name>
+          <Alias>h3</Alias>
+          <Value>
+          </Value>
+        </Property>
+      </Properties>
+    </Stylesheet>
+  </Stylesheets>
+  <Macros>
+    <macro>
+      <name>WSC.Ads</name>
+      <alias>WSC.Ads</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Ads.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Max Nodes" alias="maxNodes" show="True" propertyType="number" />
+        <property name="Randomize" alias="random" show="True" propertyType="bool" />
+        <property name="Width" alias="imageWidth" show="True" propertyType="number" />
+        <property name="Height" alias="imageHeight" show="True" propertyType="number" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.BlogWidget</name>
+      <alias>WSC.BlogWidget</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.BlogWidget.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Title" alias="title" show="True" propertyType="text" />
+        <property name="Class" alias="myClass" show="True" propertyType="text" />
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+        <property name="Summary Character Count" alias="summaryCount" show="True" propertyType="number" />
+        <property name="Max Nodes" alias="maxNodes" show="True" propertyType="number" />
+        <property name="Source" alias="source" show="True" propertyType="contentPicker" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.BodyClass</name>
+      <alias>WSC.BodyClass</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.BodyClass.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.Breadcrumb</name>
+      <alias>WSC.Breadcrumb</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Breadcrumb.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Show Home" alias="showHome" show="True" propertyType="bool" />
+        <property name="Separator" alias="separator" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.Event</name>
+      <alias>WSC.Event</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Event.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.EventListing</name>
+      <alias>WSC.EventListing</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.EventListing.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.EventWidget</name>
+      <alias>WSC.EventWidget</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.EventWidget.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Title" alias="title" show="True" propertyType="text" />
+        <property name="Class" alias="myClass" show="True" propertyType="text" />
+        <property name="Max Nodes" alias="maxNodes" show="True" propertyType="number" />
+        <property name="Source" alias="source" show="True" propertyType="contentPicker" />
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.Form.ContactUs</name>
+      <alias>WSC.Form.ContactUs</alias>
+      <scriptType>~/usercontrols/WSC/ContactUs.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>True</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Email To" alias="EmailTo" show="True" propertyType="text" />
+        <property name="Email Subject" alias="EmailSubject" show="True" propertyType="text" />
+        <property name="Redirect" alias="Redirect" show="True" propertyType="contentPicker" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.HomeFeature</name>
+      <alias>WSC.HomeFeature</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.HomeFeature.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Width" alias="imageWidth" show="True" propertyType="number" />
+        <property name="Height" alias="imageHeight" show="True" propertyType="number" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.Job</name>
+      <alias>WSC.Job</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Job.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.Job Listing</name>
+      <alias>WSC.JobListing</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.JobListing.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.Locations</name>
+      <alias>WSC.Locations</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Locations.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Distance" alias="Distance" show="True" propertyType="number" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.MemberLogin</name>
+      <alias>WSC.MemberLogin</alias>
+      <scriptType>~/usercontrols/WSC/MemberLogin.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.MemberStatus</name>
+      <alias>WSC.MemberStatus</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.MemberStatus.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Login Page" alias="loginNodeID" show="True" propertyType="contentPicker" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.MetaData</name>
+      <alias>WSC.MetaData</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.MetaData.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.Navigation</name>
+      <alias>WSC.Navigation</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Navigation.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Location" alias="location" show="True" propertyType="text" />
+        <property name="Display Level" alias="level" show="True" propertyType="number" />
+        <property name="CSS Class" alias="css" show="True" propertyType="text" />
+        <property name="Ancestor Alias" alias="ancestorAlias" show="True" propertyType="text" />
+        <property name="Node ID" alias="nodeID" show="True" propertyType="contentPicker" />
+        <property name="Ancestor Level" alias="ancestorLevel" show="True" propertyType="number" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.NewsItem</name>
+      <alias>WSC.NewsItem</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.NewsItem.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.Newslist</name>
+      <alias>WSC.Newslist</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Newslist.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Records Per Page" alias="recordsPerPage" show="True" propertyType="number" />
+        <property name="Show Archive Link" alias="showArchiveLink" show="True" propertyType="bool" />
+        <property name="Tag" alias="tag" show="True" propertyType="text" />
+        <property name="Show Tags" alias="showTags" show="True" propertyType="bool" />
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.NewsWidget</name>
+      <alias>WSC.NewsWidget</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.NewsWidget.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Title" alias="title" show="True" propertyType="text" />
+        <property name="Class" alias="myClass" show="True" propertyType="text" />
+        <property name="Max Nodes" alias="maxNodes" show="True" propertyType="number" />
+        <property name="Source" alias="source" show="True" propertyType="contentPicker" />
+        <property name="Date Format" alias="dateFormat" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.Product</name>
+      <alias>WSC.Product</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Product.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.ProductCategory</name>
+      <alias>WSC.ProductCategory</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.ProductCategory.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.Products</name>
+      <alias>WSC.Products</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Products.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.Search</name>
+      <alias>WSC.Search</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Search.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Source" alias="source" show="True" propertyType="contentTree" />
+        <property name="Umbraco fields to search" alias="searchFields" show="True" propertyType="text" />
+        <property name="Umbraco fields shown in results preview" alias="previewFields" show="True" propertyType="text" />
+        <property name="Display search box at TOP, BOTTOM, or BOTH" alias="searchBoxLocation" show="True" propertyType="text" />
+        <property name="Display BEGINNING or CONTEXT of each result" alias="previewType" show="True" propertyType="text" />
+        <property name="Number of search results to display per page" alias="resultsPerPage" show="True" propertyType="number" />
+        <property name="Number of characters of preview text to display" alias="previewChars" show="True" propertyType="number" />
+        <property name="Display 'Showing result X to Y'?" alias="showPageRange" show="True" propertyType="bool" />
+        <property name="Display numbers before each result?" alias="showOrdinals" show="True" propertyType="bool" />
+        <property name="Display search score for each result?" alias="showScores" show="True" propertyType="bool" />
+        <property name="Display 'Searched X documents in Y seconds'?" alias="showStats" show="True" propertyType="bool" />
+        <property name="Ignore NodeTypeAlias" alias="ignoreAlias" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>WSC.Sitemap</name>
+      <alias>WSC.Sitemap</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.Sitemap.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>WSC.SitemapXML</name>
+      <alias>WSC.SitemapXML</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>WSC.SitemapXML.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Ignore Alias" alias="ignoreAlias" show="True" propertyType="text" />
+      </properties>
+    </macro>
+  </Macros>
+  <DictionaryItems />
+  <Languages>
+    <Language Id="1" CultureAlias="en-US" FriendlyName="English (United States)" />
+  </Languages>
+  <DataTypes>
+    <DataType Name="WSC.AdUrl" Id="22c6f52c-5d41-45b8-845e-c16354cfdd7b" Definition="5cd1e327-60a3-49d2-a90f-95690adc44d9" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="20" Value="URL|Content|Media" />
+        <PreValue Id="21" Value="Xml" />
+        <PreValue Id="22" Value="False" />
+        <PreValue Id="23" Value="True" />
+        <PreValue Id="24" Value="Content" />
+      </PreValues>
+    </DataType>
+    <DataType Name="WSC.GeoAddress" Id="f9706b79-8af8-47d1-942d-2576920e491d" Definition="88813928-c7b2-4d76-a04c-cada2c22ed45" DatabaseType="Ntext">
+      <PreValues />
+    </DataType>
+    <DataType Name="WSC.HomeFeature" Id="82cc7433-acb3-4a7a-8ab3-a02ec6dd181e" Definition="0b0c7ce1-7afd-46c8-890d-aee2ba5cc4d2" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="16" Value="{&quot;ShowLabel&quot;:false,&quot;ShowGridHeader&quot;:true,&quot;ShowGridFooter&quot;:true,&quot;ReadOnly&quot;:false,&quot;TableHeight&quot;:300,&quot;Mandatory&quot;:false}" />
+        <PreValue Id="17" Value="{&quot;Name&quot;:&quot;Name&quot;,&quot;Alias&quot;:&quot;name&quot;,&quot;Mandatory&quot;:true,&quot;Visible&quot;:true,&quot;ValidationExpression&quot;:&quot;&quot;,&quot;DataTypeId&quot;:-88}" />
+        <PreValue Id="18" Value="{&quot;Name&quot;:&quot;Image&quot;,&quot;Alias&quot;:&quot;image&quot;,&quot;Mandatory&quot;:true,&quot;Visible&quot;:true,&quot;ValidationExpression&quot;:&quot;&quot;,&quot;DataTypeId&quot;:1035}" />
+        <PreValue Id="19" Value="{&quot;Name&quot;:&quot;Link&quot;,&quot;Alias&quot;:&quot;link&quot;,&quot;Mandatory&quot;:false,&quot;Visible&quot;:true,&quot;ValidationExpression&quot;:&quot;&quot;,&quot;DataTypeId&quot;:-88}" />
+      </PreValues>
+    </DataType>
+    <DataType Name="WSC.Navigation Area" Id="b4471851-82b6-4c75-afa4-39fa9c6a75e9" Definition="52f2a8e5-c80e-46e1-982e-f4d7c549302d" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="5" Value="Top" />
+        <PreValue Id="6" Value="Side" />
+        <PreValue Id="7" Value="Bottom" />
+      </PreValues>
+    </DataType>
+    <DataType Name="WSC.NewsTags" Id="4023e540-92f5-11dd-ad8b-0800200c9a66" Definition="c34f8e37-e374-4e96-a3a9-66cb2245f1ae" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="26" Value="News" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+  <control>/UserControls/WSC/Installer.ascx</control>
+  <Actions>
+    <Action runat="install" alias="addXsltExtension" assembly="/umbraco.editorControls" type="umbraco.editorControls.tags.library" extensionAlias="tagsLib" />
+    <Action runat="install" undo="true" alias="addDashboardSection" dashboardAlias="WSC.SitemapImport">
+      <section>
+        <areas>
+          <area>developer</area>
+        </areas>
+        <tab caption="Sitemap Import">
+          <control>/usercontrols/WSC/dashboard/SitemapImport.ascx</control>
+        </tab>
+      </section>
+    </Action>
+    <Action runat="install" alias="publishRootDocument" documentName="Home" />
+  </Actions>
+</umbPackage>

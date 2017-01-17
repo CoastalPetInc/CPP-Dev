@@ -1,0 +1,43 @@
+
+.features {}
+.features .feature {}
+.features .feature img {}
+
+/* News widget */
+.news {}
+.news dt {}
+.news dt a {}
+.news dd {}
+.news dd a {}
+.news dd a .title {}
+.news dd a .date {}
+.news dd a .summary {}
+.news dd a .more {}
+
+/* Events Widget */
+.events {}
+.events dt {}
+.events dt a {}
+.events dd {}
+.events dd a {}
+.events dd a .title {}
+.events dd a .date {}
+.events dd a .summary {}
+.events dd a .more {}
+
+/* Blog Widget */
+.blog {}
+.blog dt {}
+.blog dt a {}
+.blog dd {}
+.blog dd a {}
+.blog dd a .title {}
+.blog dd a .date {}
+.blog dd a .author {}
+.blog dd a .summary {}
+.blog dd a .more {}
+
+/* Ads */
+.ads {}
+.ads a.ad {}
+.ads a.ad img {}
